@@ -60,6 +60,27 @@ def theo_bound(w, k, pi, hs, which):
         ress += pi[idx_i] * np.log( tmp )
     return - ress
     
+@njit
+def mutual_time_dependent(w, k, sigmah, t):
+    return ( 0.5*np.log((-4*np.exp((1 + k)*t*w)*(1 + k)*(1 + (-1 + k)*w)*(2 + (-1 + k)*w)*sigmah**2 + 
+                    2*np.exp(2*t*w)*(2 + (-1 + k)*w)**2*sigmah**2 + 
+                    np.exp(2*k*t*w)*(1 + k**2)*(1 + (-1 + k)*w)*(2 + (-1 + k)*w)**2*sigmah**2 + 
+                    4*np.exp(t*(1 + w + k*w))*(-1 + k)*(2 + (-1 + k)*w)*(1 + k*w)*sigmah**2 - 
+                    2*np.exp(t + 2*k*t*w)*(-1 + k)*(1 + (-1 + k)*w)*(2 + (-1 + k)*w)*(w + k*(2 + k*w))*sigmah**2 + 
+                    np.exp(2*(t + k*t*w))*(-1 + k)**2*(2 + 4*sigmah**2 + (-1 + k)*(1 + k**2)*w**3*(1 + sigmah**2) +
+                    4*w*(-1 + k + (-1 + 2*k)*sigmah**2) + w**2*(3 - 4*k + 3*k**2 + (3 + k*(-4 + 5*k))*sigmah**2)))/
+                   (np.exp(2*(t + k*t*w))*(-1 + k)**2*(1 + (-1 + k)*w)*(2 + w*(-2 + w + k*(2 + k*w)))))
+           )    
+
+@njit
+def product_mutual_st_second_der(w, k, sigmah):
+    return ( (0.5*(4. + w*(-8. + 1.*k**2*w + (7. - 2.*w)*w + k*(4. + w*(-4. + 2.*w))))*sigmah**2*
+            (-np.log((1 + (-1 + k)*w)*(2 + w*(-2 + w + k*(2 + k*w)))) + 
+            np.log(2 + 4*sigmah**2 + (-1 + k)*(1 + k**2)*w**3*(1 + sigmah**2) +
+            4*w*(-1 + k + (-1 + 2*k)*sigmah**2) + 
+            w**2*(3 - 4*k + 3*k**2 + (3 + k*(-4 + 5*k))*sigmah**2)))) /
+            (2. + w*(-2. + w + k*(2. + k*w))) )
+
 def theo_lb(w, k, pi, hs):
     n_inputs = len(pi)
     
