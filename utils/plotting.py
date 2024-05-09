@@ -10,7 +10,8 @@ colors = ("#76c893", "#184e77")
 labels = ('E', 'I')
 folder_figures = 'figures/'
 format_fig = '.svg'
-my_cmap = ListedColormap(sns.color_palette('mako_r').as_hex())
+my_cmap_discrete = ListedColormap(sns.color_palette('mako_r').as_hex())
+my_cmap_continuous = sns.color_palette('mako_r', as_cmap=True)
 
 def load_matplotlib_local_fonts():
     from matplotlib import font_manager
