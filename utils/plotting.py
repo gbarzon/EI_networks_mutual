@@ -26,7 +26,7 @@ def load_matplotlib_local_fonts():
         'font.sans-serif': prop.get_name(),
     })
     
-load_matplotlib_local_fonts()
+#load_matplotlib_local_fonts()
 plt.rcParams.update({'font.size': 16})
 
 def plot_simulation(states, inputs, hs, dt,
