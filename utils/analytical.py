@@ -81,6 +81,10 @@ def product_mutual_st_second_der(w, k, sigmah):
             w**2*(3 - 4*k + 3*k**2 + (3 + k*(-4 + 5*k))*sigmah**2)))) /
             (2. + w*(-2. + w + k*(2. + k*w))) )
 
+def mutual_second_der(w, k, sigmah):
+    return  (4. + w*(-8. + 1.*k**2*w + (7. - 2.*w)*w + k*(4. + w*(-4. + 2.*w))))*sigmah**2 / (2. + w*(-2. + w + k*(2. + k*w)))
+
+
 def theo_lb(w, k, pi, hs):
     n_inputs = len(pi)
     
