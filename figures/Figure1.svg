@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="0.96440678"
-     inkscape:cx="270.11423"
-     inkscape:cy="242.11775"
+     inkscape:zoom="0.87372911"
+     inkscape:cx="231.7652"
+     inkscape:cy="339.35003"
      inkscape:window-width="1512"
      inkscape:window-height="840"
      inkscape:window-x="0"
@@ -396,96 +396,92 @@
      transform="matrix(0.14,0,0,-0.14,-43.335253,153.34981)"
      id="use202-3"
      style="stroke-linecap:butt;stroke-linejoin:round" />
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
+     x="112.76928"
+     y="20.537577"
+     id="text1-2-4-1-0-6-4"><tspan
+       sodipodi:role="line"
+       id="tspan1-7-9-7-5-6-1"
+       style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
+       x="112.78799"
+       y="20.537577">(b)</tspan></text>
   <g
-     id="g42"
-     transform="translate(4.3223733)">
-    <text
-       xml:space="preserve"
-       style="font-weight:500;font-size:15.9616px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
-       x="468.95816"
-       y="118.26878"
-       id="text1-2-4-1-0-6-4"><tspan
-         sodipodi:role="line"
-         id="tspan1-7-9-7-5-6-1"
-         style="font-size:15.9616px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
-         x="468.97687"
-         y="118.26878">(b)</tspan></text>
+     id="text_13-3"
+     style="stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(226.54778,-18.320477)">
+    <!-- $E$ -->
     <g
-       id="text_13-3"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(222.22541,-18.320477)">
-      <!-- $E$ -->
-      <g
-         transform="matrix(0.14,0,0,-0.14,26.753954,37.564147)"
-         id="g52-5-7"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           xlink:href="#Cmmi10-45"
-           transform="translate(0,0.6875)"
-           id="use52-5-0"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-      </g>
+       transform="matrix(0.14,0,0,-0.14,26.753954,37.564147)"
+       id="g52-5-7"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <use
+         xlink:href="#Cmmi10-45"
+         transform="translate(0,0.6875)"
+         id="use52-5-0"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
     </g>
+  </g>
+  <g
+     id="text_14-0"
+     style="stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(225.04778,-18.320477)">
+    <!-- $I$ -->
     <g
-       id="text_14-0"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(220.72541,-18.320477)">
-      <!-- $I$ -->
-      <g
-         transform="matrix(0.14,0,0,-0.14,56.713954,37.564147)"
-         id="g53-1"
-         style="stroke-linecap:butt;stroke-linejoin:round">
-        <use
-           xlink:href="#Cmmi10-49"
-           transform="translate(0,0.6875)"
-           id="use53-4-0"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-      </g>
+       transform="matrix(0.14,0,0,-0.14,56.713954,37.564147)"
+       id="g53-1"
+       style="stroke-linecap:butt;stroke-linejoin:round">
+      <use
+         xlink:href="#Cmmi10-49"
+         transform="translate(0,0.6875)"
+         id="use53-4-0"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
     </g>
+  </g>
+  <g
+     id="text_26-3"
+     style="stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(68.470221,-102.48997)">
+    <!-- $x_{E, I}(t)$ -->
     <g
-       id="text_26-3"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(64.147848,-102.48997)">
-      <!-- $x_{E, I}(t)$ -->
-      <g
-         style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0,-0.17,-0.17,0,47.049062,205.52102)"
-         id="g99-0">
-        <use
-           xlink:href="#Cmmi10-78"
-           id="use93"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-45"
-           transform="matrix(0.7,0,0,0.7,57.080078,-17.00625)"
-           id="use94-4"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-3b"
-           transform="matrix(0.7,0,0,0.7,108.72559,-17.00625)"
-           id="use95-8"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-49"
-           transform="matrix(0.7,0,0,0.7,140.39648,-17.00625)"
-           id="use96-7"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmr10-28"
-           transform="translate(177.50137)"
-           id="use97-5"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-74"
-           transform="translate(216.31973)"
-           id="use98-9"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmr10-29"
-           transform="translate(252.40371)"
-           id="use99-5"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-      </g>
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0,-0.17,-0.17,0,47.049062,205.52102)"
+       id="g99-0">
+      <use
+         xlink:href="#Cmmi10-78"
+         id="use93"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-45"
+         transform="matrix(0.7,0,0,0.7,57.080078,-17.00625)"
+         id="use94-4"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-3b"
+         transform="matrix(0.7,0,0,0.7,108.72559,-17.00625)"
+         id="use95-8"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-49"
+         transform="matrix(0.7,0,0,0.7,140.39648,-17.00625)"
+         id="use96-7"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmr10-28"
+         transform="translate(177.50137)"
+         id="use97-5"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-74"
+         transform="translate(216.31973)"
+         id="use98-9"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmr10-29"
+         transform="translate(252.40371)"
+         id="use99-5"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
     </g>
   </g>
   <g
@@ -1848,15 +1844,15 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-weight:500;font-size:15.9616px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
-     x="11.169912"
-     y="16.831743"
+     style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
+     x="12.669912"
+     y="20.257576"
      id="text1-2-4-1-0-6-48"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8"
-       style="font-size:15.9616px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
-       x="11.188618"
-       y="16.831743">(a)</tspan></text>
+       style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
+       x="12.688618"
+       y="20.257576">(a)</tspan></text>
   <g
      id="g46"
      transform="translate(2.177528,-5.380889)">
@@ -3006,15 +3002,15 @@
      id="path194" />
   <text
      xml:space="preserve"
-     style="font-weight:500;font-size:15.9616px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
-     x="415.72659"
-     y="386.14606"
+     style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
+     x="414.37613"
+     y="385.49994"
      id="text1-2-4-1-0"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5"
-       style="font-size:15.9616px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
-       x="415.7453"
-       y="386.14606">(d)</tspan></text>
+       style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
+       x="414.39484"
+       y="385.49994">(d)</tspan></text>
   <g
      id="g22"
      transform="translate(2.1611841,-43.421255)">
@@ -3059,76 +3055,72 @@
        id="use179-3"
        style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
   </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
+     x="111.47928"
+     y="148.731"
+     id="text1-2-4-1-0-6"><tspan
+       sodipodi:role="line"
+       id="tspan1-7-9-7-5-6"
+       style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
+       x="111.49799"
+       y="148.731">(c)</tspan></text>
   <g
-     id="g43"
-     transform="translate(4.3223733)">
-    <text
-       xml:space="preserve"
-       style="font-weight:500;font-size:15.9616px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
-       x="469.98767"
-       y="247.23076"
-       id="text1-2-4-1-0-6"><tspan
-         sodipodi:role="line"
-         id="tspan1-7-9-7-5-6"
-         style="font-size:15.9616px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
-         x="470.00638"
-         y="247.23076">(c)</tspan></text>
+     id="text_26-8"
+     style="stroke-linecap:butt;stroke-linejoin:round"
+     transform="translate(69.314715,25.980033)">
+    <!-- $x_{E, I}(t)$ -->
     <g
-       id="text_26-8"
-       style="stroke-linecap:butt;stroke-linejoin:round"
-       transform="translate(64.992342,25.980033)">
-      <!-- $x_{E, I}(t)$ -->
-      <g
-         style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
-         transform="matrix(0,-0.17,-0.17,0,47.049062,205.52102)"
-         id="g99">
-        <use
-           xlink:href="#Cmmi10-78"
-           id="use93-7"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-45"
-           transform="matrix(0.7,0,0,0.7,57.080078,-17.00625)"
-           id="use94"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-3b"
-           transform="matrix(0.7,0,0,0.7,108.72559,-17.00625)"
-           id="use95"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-49"
-           transform="matrix(0.7,0,0,0.7,140.39648,-17.00625)"
-           id="use96"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmr10-28"
-           transform="translate(177.50137)"
-           id="use97"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmmi10-74"
-           transform="translate(216.31973)"
-           id="use98"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-        <use
-           xlink:href="#Cmr10-29"
-           transform="translate(252.40371)"
-           id="use99"
-           style="stroke-linecap:butt;stroke-linejoin:round" />
-      </g>
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0,-0.17,-0.17,0,47.049062,205.52102)"
+       id="g99">
+      <use
+         xlink:href="#Cmmi10-78"
+         id="use93-7"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-45"
+         transform="matrix(0.7,0,0,0.7,57.080078,-17.00625)"
+         id="use94"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-3b"
+         transform="matrix(0.7,0,0,0.7,108.72559,-17.00625)"
+         id="use95"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-49"
+         transform="matrix(0.7,0,0,0.7,140.39648,-17.00625)"
+         id="use96"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmr10-28"
+         transform="translate(177.50137)"
+         id="use97"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmmi10-74"
+         transform="translate(216.31973)"
+         id="use98"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
+      <use
+         xlink:href="#Cmr10-29"
+         transform="translate(252.40371)"
+         id="use99"
+         style="stroke-linecap:butt;stroke-linejoin:round" />
     </g>
-    <use
-       xlink:href="#Cmmi10-45"
-       transform="matrix(0.14,0,0,-0.14,249.82377,148.59748)"
-       id="use52-5-0-1"
-       style="stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmmi10-49"
-       transform="matrix(0.14,0,0,-0.14,278.28377,148.59748)"
-       id="use53-4-0-8"
-       style="stroke-linecap:butt;stroke-linejoin:round" />
   </g>
+  <use
+     xlink:href="#Cmmi10-45"
+     transform="matrix(0.14,0,0,-0.14,254.14614,148.59748)"
+     id="use52-5-0-1"
+     style="stroke-linecap:butt;stroke-linejoin:round" />
+  <use
+     xlink:href="#Cmmi10-49"
+     transform="matrix(0.14,0,0,-0.14,282.60614,148.59748)"
+     id="use53-4-0-8"
+     style="stroke-linecap:butt;stroke-linejoin:round" />
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#738394;stroke-width:2.5;stroke-linecap:square;stroke-opacity:0.341176;fill-opacity:1"
