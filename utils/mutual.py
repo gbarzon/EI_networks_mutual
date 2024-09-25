@@ -8,7 +8,7 @@ from utils.numba_utils import *
 ################## COMPUTE MUTUAL FROM TRAJECTORIES ##################
 @njit
 def compute_bins(data, bins):
-    x_lim, y_lim = (0, data[:,0].max()), (0, data[:,1].max())
+    x_lim, y_lim = (data[:,0].min(), data[:,0].max()), (data[:,1].min(), data[:,1].max())
 
     x_edges = np.linspace(x_lim[0], x_lim[1], bins + 1)
     y_edges = np.linspace(y_lim[0], y_lim[1], bins + 1)
@@ -30,7 +30,7 @@ def compute_mutual_information_from_trajectories(data, inputs, bins):
     edges, centers = compute_bins(data, bins)
 
     ### Compute bin size
-    dx, dy = edges[0][1], edges[1][1]
+    dx, dy = edges[0][1]-edges[0][0], edges[1][1]-edges[1][0]
 
     ### Compute complete state probability
     H_state = compute_prob_2d(data, edges=edges)
@@ -75,20 +75,20 @@ def system_probability(x, sigma_inv, sigma_det, x_means, p_inputs):
     return pdf
 
 @njit
-def MC_underhood(w, k, h_inputs, p_inputs, nsamples):
+def MC_underhood(w, k, r, D, h_inputs, p_inputs, nsamples):
     ### Check stability
-    if (k <= 1 - 1/w):
+    if (k <= 1 - r/w):
         return np.nan
     
     # Compute sigma stationary
-    sigma_st = theo_sigma(w,k)
+    sigma_st = theo_sigma(w,k,r,D)
     sigma_inv = numba_inverse_2d(sigma_st)
     sigma_det = numba_determinant_2d(sigma_st)
 
     # Mean of ei system for different input values
     means = np.zeros(h_inputs.T.shape)
     for idx in range(h_inputs.shape[1]):
-        means[idx] = theo_mean(w, k, h_inputs[:,idx])
+        means[idx] = theo_mean(w, k, r, h_inputs[:,idx])
     
     ### Generate samples from inputs
     nsamples_input = numba_sample_discrete_distribution(p_inputs, nsamples)
@@ -117,20 +117,20 @@ def MC_underhood(w, k, h_inputs, p_inputs, nsamples):
     return np.sum(numba_masked_log(pjoint) - numba_masked_log(pmarg))/nsamples #, samples_system, pjoint, pmarg
 
 @njit(parallel=False)
-def mutual_information_slowjumps(w_list, k_list, h_inputs, p_inputs, nsamples = int(1e4)):
+def mutual_information_slowjumps(w_list, k_list, r, D, h_inputs, p_inputs, nsamples = int(1e4)):
     mutual = np.empty((w_list.size, k_list.size), dtype = np.float64)
 
     for idx_w in prange(w_list.size):
         for idx_k in prange(k_list.size):
-            mutual[idx_w,idx_k] = MC_underhood(w_list[idx_w], k_list[idx_k], h_inputs, p_inputs, nsamples)
+            mutual[idx_w,idx_k] = MC_underhood(w_list[idx_w], k_list[idx_k], r, D, h_inputs, p_inputs, nsamples)
                 
     return mutual
 
 @njit(parallel=False)
-def mutual_information_slowjumps_fixedw(w, k_list, h_inputs, p_inputs, nsamples = int(1e4)):
+def mutual_information_slowjumps_fixedw(w, k_list, r, D, h_inputs, p_inputs, nsamples = int(1e4)):
     mutual = np.empty(k_list.size, dtype = np.float64)
 
     for idx_k in prange(k_list.size):
-        mutual[idx_k] = MC_underhood(w, k_list[idx_k], h_inputs, p_inputs, nsamples)
+        mutual[idx_k] = MC_underhood(w, k_list[idx_k], r, D, h_inputs, p_inputs, nsamples)
                 
     return mutual

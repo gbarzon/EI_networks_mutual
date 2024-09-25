@@ -2,6 +2,19 @@ import numpy as np
 from numba import njit, prange
 
 @njit
+def set_seed(value):
+    np.random.seed(value)
+
+@njit
+def numba_random_normal(size):
+    res = np.zeros(size)
+    
+    for idx in range(size):
+        res[idx] = np.random.normal()
+    
+    return res
+
+@njit
 def numba_masked_log(x):
     l = np.log(x)
     l[np.where(l == -np.inf)] = 0

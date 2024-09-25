@@ -1,13 +1,10 @@
 import numpy as np
 from numba import njit
+from utils.numba_utils import numba_random_normal, set_seed
 
-@njit
-def set_seed(value):
-    np.random.seed(value)
-
-def create_info_system(N, w, k, tau_ei, r):
+def create_info_system(N, w, k, tau_ei, r, D):
     A = w * np.array([[1, -k], [1, -k]])
-    return {'N': N, 'w': w, 'k': k, 'tau_ei': tau_ei, 'r': r, 'A': A}
+    return {'N': N, 'w': w, 'k': k, 'tau_ei': tau_ei, 'r': r, 'D': D, 'A': A}
     
 def create_info_input(W, hs):
     return {'W': W, 'hs': hs}
@@ -15,7 +12,7 @@ def create_info_input(W, hs):
 def create_info_simulation(steps, dt):
     return {'steps': steps, 'dt': dt}
 
-def simulate_coupled_system(info_system, info_input, info_simulation, seed=None):
+def simulate_coupled_system(info_system, info_input, info_simulation, linear=True, seed=None):
     if seed is not None:
         set_seed(seed)
     ### Simulate input
@@ -24,7 +21,10 @@ def simulate_coupled_system(info_system, info_input, info_simulation, seed=None)
     ### Simulate system
     #hs = np.array([info_input['hs'][inputs], np.zeros(info_simulation['steps'])]).T
     inputs_values = (info_input['hs'].T)[inputs]
-    states = simulate(info_simulation['steps'], info_system['A'], info_system['r'], info_system['tau_ei'], inputs_values, info_simulation['dt'])
+    if linear:
+        states = simulate(info_simulation['steps'], info_system['A'], info_system['r'], info_system['tau_ei'],  info_system['D'], inputs_values, info_simulation['dt'])
+    else:
+        states = simulate_nonlinear(info_simulation['steps'], info_system['A'], info_system['r'], info_system['tau_ei'],  info_system['D'], inputs_values, info_simulation['dt'])
     
     return (inputs, states)
 
@@ -38,16 +38,7 @@ def create_transition_matrix_star_graph(M, wup, wdown):
     return W
 
 @njit
-def numba_random_normal(size):
-    res = np.zeros(size)
-    
-    for idx in range(size):
-        res[idx] = np.random.normal()
-    
-    return res
-
-@njit
-def step_linear(x, A, r, tau, h, dt):
+def step_linear(x, A, r, tau, D, h, dt):
     '''
     Function to perform a linear step in a simulation.
 
@@ -67,14 +58,47 @@ def step_linear(x, A, r, tau, h, dt):
     Updated state after applying the linear step.
     '''
 
-    return x +  (-r * x + A @ x + h) * dt / tau + numba_random_normal(x.size) * np.sqrt(dt) / tau
+    return x +  (-r * x + A @ x + h) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt) / tau
 
 @njit
-def simulate(steps, A, r, tau, h, dt):
+def step_nonlinear(x, A, r, tau, D, h, dt):
+    '''
+    Function to perform a linear step in a simulation.
+
+    Parameters:
+    x : array-like
+        Current state.
+    A : array-like
+        Matrix A used in the computation.
+    r : array-like
+        Vector of constants representing self-decay.
+    h : array-like
+        Vector representing external input.
+    dt : float
+        Time step.
+
+    Returns:
+    Updated state after applying the linear step.
+    '''
+
+    #return x +  (-r * x + np.tanh( A @ x + h) ) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt) / tau
+    return x +  (-r * x + A @ np.tanh(x) + h ) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt) / tau
+
+@njit
+def simulate(steps, A, r, tau, D, h, dt):
     states = np.zeros((steps, A.shape[0]))
     
     for t in range(1,steps):
-        states[t] = step_linear(states[t-1], A, r, tau, h[t], dt)
+        states[t] = step_linear(states[t-1], A, r, tau, D, h[t], dt)
+        
+    return states
+
+@njit
+def simulate_nonlinear(steps, A, r, tau, D, h, dt):
+    states = np.zeros((steps, A.shape[0]))
+    
+    for t in range(1,steps):
+        states[t] = step_nonlinear(states[t-1], A, r, tau, D, h[t], dt)
         
     return states
 
