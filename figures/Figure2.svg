@@ -28,14 +28,14 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="0.56916179"
-     inkscape:cx="205.56545"
-     inkscape:cy="445.39181"
-     inkscape:window-width="1512"
-     inkscape:window-height="840"
+     inkscape:zoom="0.51531294"
+     inkscape:cx="406.54908"
+     inkscape:cy="377.44055"
+     inkscape:window-width="1088"
+     inkscape:window-height="1212"
      inkscape:window-x="0"
-     inkscape:window-y="400"
-     inkscape:window-maximized="1"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
      inkscape:current-layer="svg390" />
   <metadata
      id="metadata1">
@@ -3594,7 +3594,7 @@
        id="tspan1-7-9-7-5-6-8-6"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="127.43983"
-       y="431.01199">(b)</tspan></text>
+       y="431.01199">(c)</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
@@ -3605,5 +3605,5 @@
        id="tspan1-7-9-7-5-6-8-60"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="273.63571"
-       y="221.48625">(c)</tspan></text>
+       y="221.48625">(b)</tspan></text>
 </svg>
