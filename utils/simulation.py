@@ -58,7 +58,7 @@ def step_linear(x, A, r, tau, D, h, dt):
     Updated state after applying the linear step.
     '''
 
-    return x +  (-r * x + A @ x + h) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt) / tau
+    return x +  (-r * x + A @ x + h) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt/tau) #/ tau
 
 @njit
 def step_nonlinear(x, A, r, tau, D, h, dt):
@@ -82,7 +82,7 @@ def step_nonlinear(x, A, r, tau, D, h, dt):
     '''
 
     #return x +  (-r * x + np.tanh( A @ x + h) ) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt) / tau
-    return x +  (-r * x + A @ np.tanh(x) + h ) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt) / tau
+    return x +  (-r * x + A @ np.tanh(x) + h ) * dt / tau + np.sqrt(2*D) * numba_random_normal(x.size) * np.sqrt(dt/tau) #/ tau
 
 @njit
 def simulate(steps, A, r, tau, D, h, dt):
