@@ -14,7 +14,8 @@ def theo_mean(w, k, r, h):
 def theo_sigma(w, k, r, D):
     ### Compute expected covariance matrix
     tt = (r+w*(k-1))*(2*r+w*(k-1))
-    sigma = np.array([[2*r**2+(-1+3*k)*w*r+2*k**2*w**2, w*(r-k*r+2*k*w)],[w*(r-k*r+2*k*w), 2*r**2+(k-3)*r*w+2*w**2]])
+    sigma = np.array([[2*r**2+(-1+3*k)*w*r+2*k**2*w**2, w*(r-k*r+2*k*w)],
+                      [w*(r-k*r+2*k*w), 2*r**2+(k-3)*r*w+2*w**2]])
     
     return D * sigma / tt
 
