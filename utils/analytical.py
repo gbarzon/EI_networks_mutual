@@ -92,7 +92,30 @@ def mutual_stat_input(w, k, sigmah):
             4*w*(-1 + k + (-1 + 2*k)*sigmah**2) + 
             w**2*(3 - 4*k + 3*k**2 + (3 + k*(-4 + 5*k))*sigmah**2))))
 
+@njit
+def mutual_second_der_global(w, k, sigmah, r=1, D=1):
+    return  (sigmah**2 / D) * (2 * r + (k - 1) * w)
 
+@njit
+def mutual_stat_input_global(w, k, sigmah, r=1, D=1):
+    # First term
+    term1 = -2 * np.log(D)
+    
+    # Second term
+    term2 = -np.log(2 * r * (2 * r**2 + 2 * (k - 1) * r * w + (1 + k**2) * w**2))
+    
+    # Third term
+    common_factor = 2 * r**2 + 2 * (k - 1) * r * w + (1 + k**2) * w**2
+    
+    term3 = np.log(
+        2 * D**2 * r * common_factor + 
+        (2 * D * (2 * r + (k - 1) * w) * common_factor * sigmah**2) / (r + (k - 1) * w) + 
+        ((2 * r + (k - 1) * w)**2 * sigmah**4) / (r + (k - 1) * w)
+    )
+    
+    # Final expression
+    return 0.5 * (term1 + term2 + term3)
+    
 def theo_lb(w, k, r, D, pi, hs):
     n_inputs = len(pi)
     
