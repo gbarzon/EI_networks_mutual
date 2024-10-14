@@ -134,3 +134,26 @@ def mutual_information_slowjumps_fixedw(w, k_list, r, D, h_inputs, p_inputs, nsa
         mutual[idx_k] = MC_underhood(w, k_list[idx_k], r, D, h_inputs, p_inputs, nsamples)
                 
     return mutual
+
+@njit(parallel=False)
+def mutual_information_slowjumps_dh_D(w, k, r, D_list, dh_list, p_inputs, nsamples = int(1e4)):
+    mutual = np.empty((dh_list.size, D_list.size), dtype = np.float64)
+    
+    tmp_hs = np.zeros((2,p_inputs.size))
+    tmp_hs[0] = np.arange(p_inputs.size)
+
+    for idx_dh in prange(dh_list.size):
+        h_inputs = tmp_hs * dh_list[idx_dh]
+        for idx_D in prange(D_list.size):
+            mutual[idx_dh,idx_D] = MC_underhood(w, k, r, D_list[idx_D], h_inputs, p_inputs, nsamples)
+                
+    return mutual
+
+@njit(parallel=False)
+def mutual_information_slowjumps_fixed_deltah(w, k, r, D_list, delta_h, p_inputs, nsamples = int(1e4)):
+    mutual = np.empty(D_list.size, dtype = np.float64)
+
+    for idx_D in prange(D_list.size):
+        mutual[idx_D] = MC_underhood(w, k, r, D, h_inputs, p_inputs, nsamples)
+                
+    return mutual
