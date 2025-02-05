@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="489.16422pt"
-   height="434.48145pt"
-   viewBox="0 0 489.16423 434.48146"
+   height="424.28323pt"
+   viewBox="0 0 489.16423 424.28325"
    version="1.1"
    id="svg230"
    sodipodi:docname="Figure1.svg"
@@ -29,12 +29,12 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
      inkscape:zoom="0.87372911"
-     inkscape:cx="231.7652"
+     inkscape:cx="232.33746"
      inkscape:cy="339.35003"
-     inkscape:window-width="1512"
-     inkscape:window-height="840"
+     inkscape:window-width="2752"
+     inkscape:window-height="1026"
      inkscape:window-x="0"
-     inkscape:window-y="400"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg230"
      showguides="false" />
@@ -369,8 +369,8 @@
     </clipPath>
   </defs>
   <path
-     d="M 0,434.48145 H 489.1642 V 0 H 0 Z"
-     style="fill:#ffffff;stroke-width:1.08324;stroke-linecap:butt;stroke-linejoin:round"
+     d="M 0,424.28323 H 489.1642 V 0 H 0 Z"
+     style="fill:#ffffff;stroke-width:1.07045;stroke-linecap:butt;stroke-linejoin:round"
      id="path1" />
   <rect
      style="fill:#cdcdcd;fill-opacity:0.05;stroke:#b4b4b4;stroke-width:0.28072;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -1959,1104 +1959,6 @@
   </g>
   <text
      xml:space="preserve"
-     style="font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#212529;fill-opacity:1;stroke:#3f3f3f;stroke-width:0;stroke-linecap:square;stroke-linejoin:round"
-     x="331.69669"
-     y="-456.22852"
-     id="text233-9"
-     transform="rotate(90)"><tspan
-       sodipodi:role="line"
-       style="fill:#212529;fill-opacity:1;stroke-width:0"
-       x="331.69669"
-       y="-456.22852"
-       id="tspan244">INFORMATION</tspan><tspan
-       sodipodi:role="line"
-       style="fill:#212529;fill-opacity:1;stroke-width:0"
-       x="331.71542"
-       y="-441.82852"
-       id="tspan245">INPUT / NEURAL ACTIVITY</tspan></text>
-  <path
-     d="M 93.194319,391.75668 H 427.99431 v -118.8 H 93.194319 Z"
-     style="fill:none"
-     id="path97" />
-  <path
-     d="M 77.136562,230.76379 H 411.93656"
-     clip-path="url(#p876edd35ae)"
-     style="fill:none;stroke:#adb5bd;stroke-width:2;stroke-linecap:round;stroke-dasharray:7.4, 3.2;stroke-dashoffset:0"
-     id="path98"
-     transform="translate(16.057757,48.695664)" />
-  <path
-     d="M 77.136562,253.79328 H 411.93656"
-     clip-path="url(#p876edd35ae)"
-     style="fill:none;stroke:#ced4da;stroke-width:2;stroke-linecap:round;stroke-dasharray:7.4, 3.2;stroke-dashoffset:0"
-     id="path99"
-     transform="translate(16.057757,48.695664)" />
-  <path
-     d="m 92.354744,337.61472 33.818186,-1.07395 33.81818,-4.08426 33.81818,-10.69523 33.81818,-18.05984 33.81818,-22.87305 33.81818,-20.88753 33.81819,-14.6861 33.81818,-8.22599 33.81818,-1.98889"
-     clip-path="url(#p876edd35ae)"
-     style="fill:none;stroke:#6c757d;stroke-width:3.2;stroke-linecap:round"
-     id="path100"
-     transform="translate(16.057757,48.695664)" />
-  <g
-     clip-path="url(#p876edd35ae)"
-     id="g109"
-     transform="translate(16.057757,48.695664)">
-    <use
-       xlink:href="#m9a956e6378"
-       x="92.354744"
-       y="337.61472"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use100" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="126.17293"
-       y="336.54077"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use101" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="159.9911"
-       y="332.45651"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use102" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="193.8093"
-       y="321.76129"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use103" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="227.62747"
-       y="303.70145"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use104" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="261.44565"
-       y="280.8284"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use105" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="295.26382"
-       y="259.94086"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use106" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="329.08203"
-       y="245.25476"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use107" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="362.90021"
-       y="237.02876"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use108" />
-    <use
-       xlink:href="#m9a956e6378"
-       x="396.71838"
-       y="235.03989"
-       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
-       id="use109" />
-  </g>
-  <g
-     id="xtick_9"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_28">
-      <g
-         id="g110">
-        <use
-           xlink:href="#m9673a16d02"
-           x="92.354744"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use110" />
-      </g>
-    </g>
-    <g
-       id="text_27">
-      <!-- $\mathdefault{10^{-1}}$ -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,78.754744,357.54177)"
-         id="g114">
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="translate(0,0.684375)"
-           id="use111" />
-        <use
-           xlink:href="#Avenir-Book-30"
-           transform="translate(55.599991,0.684375)"
-           id="use112" />
-        <use
-           xlink:href="#Avenir-Book-2212"
-           transform="matrix(0.7,0,0,0.7,112.01893,33.442188)"
-           id="use113" />
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="matrix(0.7,0,0,0.7,158.63892,33.442188)"
-           id="use114" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_10"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_29">
-      <g
-         id="g115">
-        <use
-           xlink:href="#m9673a16d02"
-           x="168.44565"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use115" />
-      </g>
-    </g>
-    <g
-       id="text_28">
-      <!-- $\mathdefault{10^{0}}$ -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,157.97365,357.54177)"
-         id="g118">
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="translate(0,0.842187)"
-           id="use116" />
-        <use
-           xlink:href="#Avenir-Book-30"
-           transform="translate(55.599991,0.842187)"
-           id="use117" />
-        <use
-           xlink:href="#Avenir-Book-30"
-           transform="matrix(0.7,0,0,0.7,112.01893,33.6)"
-           id="use118" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_11"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_30">
-      <g
-         id="g119">
-        <use
-           xlink:href="#m9673a16d02"
-           x="244.53656"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use119" />
-      </g>
-    </g>
-    <g
-       id="text_29">
-      <!-- $\mathdefault{10^{1}}$ -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,234.06456,357.54177)"
-         id="g122">
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="translate(0,0.684375)"
-           id="use120" />
-        <use
-           xlink:href="#Avenir-Book-30"
-           transform="translate(55.599991,0.684375)"
-           id="use121" />
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="matrix(0.7,0,0,0.7,112.01893,33.442188)"
-           id="use122" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_12"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_31">
-      <g
-         id="g123">
-        <use
-           xlink:href="#m9673a16d02"
-           x="320.62747"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use123" />
-      </g>
-    </g>
-    <g
-       id="text_30">
-      <!-- $\mathdefault{10^{2}}$ -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,310.15547,357.54177)"
-         id="g126">
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="translate(0,0.842187)"
-           id="use124" />
-        <use
-           xlink:href="#Avenir-Book-30"
-           transform="translate(55.599991,0.842187)"
-           id="use125" />
-        <use
-           xlink:href="#Avenir-Book-32"
-           transform="matrix(0.7,0,0,0.7,112.01893,33.6)"
-           id="use126" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_13"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_32">
-      <g
-         id="g127">
-        <use
-           xlink:href="#m9673a16d02"
-           x="396.71838"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use127" />
-      </g>
-    </g>
-    <g
-       id="text_31">
-      <!-- $\mathdefault{10^{3}}$ -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,386.24638,357.54177)"
-         id="g130">
-        <defs
-           id="defs127">
-          <path
-             id="Avenir-Book-33"
-             d="m 1306,2586 h 236 q 199,0 381,44 183,45 317,144 134,100 214,260 80,160 80,384 0,364 -221,566 -220,202 -617,202 -288,0 -506,-128 -217,-128 -358,-372 l -403,205 q 205,365 521,541 317,176 733,176 269,0 506,-77 237,-77 416,-227 179,-150 284,-371 106,-221 106,-503 0,-185 -61,-352 -60,-166 -166,-301 -106,-134 -247,-233 -140,-99 -294,-150 l 19,-13 q 192,-39 352,-145 160,-105 275,-259 116,-153 180,-345 64,-192 64,-403 0,-314 -116,-557 Q 2886,429 2688,262 2490,96 2227,9 1965,-77 1670,-77 1171,-77 800,140 429,358 243,838 l 487,148 q 115,-327 342,-484 227,-156 637,-156 192,0 364,64 173,64 304,182 132,118 205,284 74,167 74,366 0,256 -96,432 -96,176 -256,284 -160,109 -368,157 -208,48 -432,48 h -198 z"
-             transform="scale(0.015625)" />
-        </defs>
-        <use
-           xlink:href="#Avenir-Book-31"
-           transform="translate(0,0.842187)"
-           id="use128" />
-        <use
-           xlink:href="#Avenir-Book-30"
-           transform="translate(55.599991,0.842187)"
-           id="use129" />
-        <use
-           xlink:href="#Avenir-Book-33"
-           transform="matrix(0.7,0,0,0.7,112.01893,33.6)"
-           id="use130" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_14"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_33">
-      <defs
-         id="defs130">
-        <path
-           id="m58296bd4fe"
-           d="M 0,0 V 1.7"
-           style="stroke:#878787;stroke-width:0.715" />
-      </defs>
-      <g
-         id="g131">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="80.568115"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use131" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_15"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_34">
-      <g
-         id="g132">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="84.980774"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use132" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_16"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_35">
-      <g
-         id="g133">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="88.873016"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use133" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_17"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_36">
-      <g
-         id="g134">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="115.26039"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use134" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_18"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_37">
-      <g
-         id="g135">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="128.65933"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use135" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_19"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_38">
-      <g
-         id="g136">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="138.16603"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use136" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_20"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_39">
-      <g
-         id="g137">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="145.54001"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use137" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_21"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_40">
-      <g
-         id="g138">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="151.56499"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use138" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_22"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_41">
-      <g
-         id="g139">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="156.65903"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use139" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_23"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_42">
-      <g
-         id="g140">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="161.07169"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use140" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_24"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_43">
-      <g
-         id="g141">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="164.96393"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use141" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_25"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_44">
-      <g
-         id="g142">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="191.3513"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use142" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_26"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_45">
-      <g
-         id="g143">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="204.75024"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use143" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_27"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_46">
-      <g
-         id="g144">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="214.25694"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use144" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_28"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_47">
-      <g
-         id="g145">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="221.63092"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use145" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_29"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_48">
-      <g
-         id="g146">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="227.65588"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use146" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_30"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_49">
-      <g
-         id="g147">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="232.74994"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use147" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_31"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_50">
-      <g
-         id="g148">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="237.1626"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use148" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_32"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_51">
-      <g
-         id="g149">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="241.05484"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use149" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_33"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_52">
-      <g
-         id="g150">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="267.4422"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use150" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_34"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_53">
-      <g
-         id="g151">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="280.84116"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use151" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_35"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_54">
-      <g
-         id="g152">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="290.34787"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use152" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_36"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_55">
-      <g
-         id="g153">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="297.72183"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use153" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_37"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_56">
-      <g
-         id="g154">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="303.7468"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use154" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_38"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_57">
-      <g
-         id="g155">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="308.84085"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use155" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_39"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_58">
-      <g
-         id="g156">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="313.25351"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use156" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_40"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_59">
-      <g
-         id="g157">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="317.14575"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use157" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_41"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_60">
-      <g
-         id="g158">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="343.53311"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use158" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_42"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_61">
-      <g
-         id="g159">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="356.93207"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use159" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_43"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_62">
-      <g
-         id="g160">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="366.43875"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use160" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_44"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_63">
-      <g
-         id="g161">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="373.81274"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use161" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_45"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_64">
-      <g
-         id="g162">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="379.83771"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use162" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_46"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_65">
-      <g
-         id="g163">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="384.93176"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use163" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_47"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_66">
-      <g
-         id="g164">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="389.34442"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use164" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="xtick_48"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_67">
-      <g
-         id="g165">
-        <use
-           xlink:href="#m58296bd4fe"
-           x="393.23666"
-           y="343.06104"
-           style="fill:#878787;stroke:#878787;stroke-width:0.715"
-           id="use165" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="ytick_9"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_68">
-      <g
-         id="g174">
-        <use
-           xlink:href="#m29b8f32b38"
-           x="77.136559"
-           y="337.89581"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use174" />
-      </g>
-    </g>
-    <g
-       id="text_33">
-      <!-- 0 bit -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,45.507062,343.03618)"
-         id="g179">
-        <defs
-           id="defs174">
-          <path
-             id="Avenir-Book-20"
-             transform="scale(0.015625)"
-             d="" />
-          <path
-             id="Avenir-Book-62"
-             d="m 3194,1498 q 0,249 -80,466 -80,218 -228,378 -147,160 -355,253 -208,93 -470,93 -263,0 -481,-93 -217,-93 -377,-253 -160,-160 -250,-378 -89,-217 -89,-466 0,-250 89,-468 90,-217 250,-377 160,-160 377,-253 218,-93 481,-93 262,0 470,93 208,93 355,253 148,160 228,377 80,218 80,468 z M 461,4838 H 883 V 2496 h 13 q 102,154 243,262 141,109 294,179 154,71 317,103 164,32 311,32 352,0 643,-119 291,-118 502,-329 212,-211 330,-499 118,-288 118,-627 0,-340 -118,-628 Q 3418,582 3206,371 2995,160 2704,41 2413,-77 2061,-77 1914,-77 1750,-45 1587,-13 1433,57 1280,128 1139,237 998,346 896,499 H 883 V 0 H 461 Z"
-             transform="scale(0.015625)" />
-          <path
-             id="Avenir-Book-69"
-             d="m 1075,4147 q 0,-134 -96,-221 -96,-86 -211,-86 -115,0 -211,86 -96,87 -96,221 0,135 96,221 96,86 211,86 115,0 211,-86 96,-86 96,-221 z M 979,0 H 557 v 2995 h 422 z"
-             transform="scale(0.015625)" />
-          <path
-             id="Avenir-Book-74"
-             d="M 2010,2611 H 1146 V 845 q 0,-167 32,-273 32,-105 89,-163 58,-57 138,-80 80,-22 176,-22 109,0 224,32 115,32 211,83 L 2035,32 Q 1798,-77 1466,-77 1344,-77 1213,-45 1082,-13 973,76 864,166 793,320 723,474 723,723 V 2611 H 90 v 384 h 633 v 845 h 423 v -845 h 864 z"
-             transform="scale(0.015625)" />
-        </defs>
-        <use
-           xlink:href="#Avenir-Book-30"
-           id="use175" />
-        <use
-           xlink:href="#Avenir-Book-20"
-           x="55.599991"
-           id="use176" />
-        <use
-           xlink:href="#Avenir-Book-62"
-           x="83.399979"
-           id="use177" />
-        <use
-           xlink:href="#Avenir-Book-69"
-           x="144.49997"
-           id="use178" />
-        <use
-           xlink:href="#Avenir-Book-74"
-           x="168.49995"
-           id="use179" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="ytick_10"
-     transform="translate(16.057757,48.695664)">
-    <g
-       id="line2d_69">
-      <g
-         id="g180">
-        <use
-           xlink:href="#m29b8f32b38"
-           x="77.136559"
-           y="229.42624"
-           style="fill:#878787;stroke:#878787;stroke-width:1.1"
-           id="use180" />
-      </g>
-    </g>
-    <g
-       id="text_34">
-      <!-- 1.5 bit -->
-      <g
-         style="fill:#4a4a4a"
-         transform="matrix(0.136,0,0,-0.136,34.165937,234.56661)"
-         id="g187">
-        <use
-           xlink:href="#Avenir-Book-31"
-           id="use181" />
-        <use
-           xlink:href="#Avenir-Book-2e"
-           x="55.599991"
-           id="use182" />
-        <use
-           xlink:href="#Avenir-Book-35"
-           x="83.399979"
-           id="use183" />
-        <use
-           xlink:href="#Avenir-Book-20"
-           x="138.99997"
-           id="use184" />
-        <use
-           xlink:href="#Avenir-Book-62"
-           x="166.79996"
-           id="use185" />
-        <use
-           xlink:href="#Avenir-Book-69"
-           x="227.89995"
-           id="use186" />
-        <use
-           xlink:href="#Avenir-Book-74"
-           x="251.89993"
-           id="use187" />
-      </g>
-    </g>
-  </g>
-  <g
-     id="text_35"
-     transform="translate(16.057757,48.695664)">
-    <!-- $I_{\mathbf{x},h}$ -->
-    <g
-       style="fill:#262626"
-       transform="matrix(0,-0.22,-0.22,0,23.345937,301.26102)"
-       id="g191">
-      <defs
-         id="defs187">
-        <path
-           id="Cmmi10-49"
-           d="m 269,0 q -63,0 -63,84 25,141 82,141 378,0 512,25 147,34 184,191 l 879,3515 q 12,63 12,82 0,40 -21,57 -20,18 -63,27 -128,25 -485,25 -65,0 -65,84 22,82 34,111 13,30 75,30 h 1788 q 62,0 62,-84 -3,-16 -13,-54 -9,-37 -25,-62 -15,-25 -46,-25 -375,0 -519,-25 -141,-34 -178,-194 L 1544,416 q -16,-78 -16,-85 0,-15 5,-29 5,-14 19,-25 14,-11 28,-16 14,-5 33,-11 121,-25 487,-25 63,0 63,-84 Q 2141,50 2128,25 2116,0 2053,0 Z"
-           transform="scale(0.015625)" />
-        <path
-           id="Cmb10-78"
-           d="m 109,0 v 325 q 519,0 569,59 l 703,966 -793,1166 H 141 v 325 h 1465 v -325 h -275 l 435,-635 415,582 q 0,28 -109,40 -109,13 -184,13 v 325 h 1268 v -325 q -518,0 -572,-60 L 1959,1594 2816,325 h 456 V 0 H 1797 v 325 h 278 l -500,738 -494,-685 q 0,-22 112,-38 113,-15 188,-15 V 0 Z"
-           transform="scale(0.015625)" />
-        <path
-           id="Cmmi10-3b"
-           d="m 634,-1153 q 0,28 25,53 232,222 360,513 128,290 128,612 v 78 Q 1044,0 891,0 744,0 641,103 538,206 538,353 q 0,150 103,250 103,100 250,100 228,0 325,-211 97,-211 97,-467 0,-356 -143,-676 -142,-321 -401,-577 -25,-13 -41,-13 -31,0 -63,29 -31,28 -31,59 z"
-           transform="scale(0.015625)" />
-        <path
-           id="Cmmi10-68"
-           d="m 341,116 q 0,37 6,56 l 928,3700 q 25,109 31,172 0,103 -415,103 -66,0 -66,84 3,16 14,56 11,41 28,63 17,22 49,22 l 862,69 h 19 q 0,-7 22,-18 22,-10 25,-14 12,-31 12,-50 L 1356,2363 q 394,465 935,465 225,0 389,-78 164,-78 256,-236 92,-158 92,-376 0,-263 -117,-635 -117,-372 -292,-831 -91,-209 -91,-384 0,-191 147,-191 250,0 417,267 167,267 236,577 13,37 50,37 h 78 q 25,0 41,-17 16,-17 16,-39 0,-6 -7,-19 Q 3450,672 3339,448 3228,225 3059,76 2891,-72 2663,-72 q -225,0 -385,155 -159,155 -159,376 0,119 50,250 181,482 301,860 121,378 121,665 0,185 -72,307 -72,122 -241,122 -344,0 -600,-211 -256,-211 -444,-558 L 800,147 Q 775,50 703,-11 631,-72 538,-72 q -82,0 -140,55 -57,55 -57,133 z"
-           transform="scale(0.015625)" />
-      </defs>
-      <use
-         xlink:href="#Cmmi10-49"
-         transform="translate(0,0.6875)"
-         id="use188" />
-      <use
-         xlink:href="#Cmb10-78"
-         transform="matrix(0.7,0,0,0.7,43.896484,-16.31875)"
-         id="use189" />
-      <use
-         xlink:href="#Cmmi10-3b"
-         transform="matrix(0.7,0,0,0.7,80.776367,-16.31875)"
-         id="use190" />
-      <use
-         xlink:href="#Cmmi10-68"
-         transform="matrix(0.7,0,0,0.7,112.44727,-16.31875)"
-         id="use191" />
-    </g>
-  </g>
-  <path
-     d="m 93.194319,391.75668 v -118.8"
-     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
-     id="path191" />
-  <path
-     d="m 427.99431,391.75668 v -118.8"
-     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
-     id="path192" />
-  <path
-     d="M 93.19432,391.75668 H 427.99431"
-     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
-     id="path193" />
-  <path
-     d="M 93.19432,272.95668 H 427.99431"
-     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
-     id="path194" />
-  <text
-     xml:space="preserve"
-     style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
-     x="414.37613"
-     y="385.49994"
-     id="text1-2-4-1-0"><tspan
-       sodipodi:role="line"
-       id="tspan1-7-9-7-5"
-       style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
-       x="414.39484"
-       y="385.49994">(d)</tspan></text>
-  <g
-     id="g22"
-     transform="translate(2.1611841,-43.421255)">
-    <use
-       xlink:href="#Cmmi10-bf-4"
-       id="use172-8"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
-       transform="matrix(0.2,0,0,-0.2,227.73313,469.57507)" />
-    <use
-       xlink:href="#Cmr10-69"
-       transform="matrix(0.14,0,0,-0.14,236.47336,472.97632)"
-       id="use173-5"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmr10-6e"
-       transform="matrix(0.14,0,0,-0.14,240.34934,472.97632)"
-       id="use174-8"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmr10-70-7"
-       transform="matrix(0.14,0,0,-0.14,248.1218,472.97632)"
-       id="use175-9"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmr10-75-4"
-       transform="matrix(0.14,0,0,-0.14,255.89426,472.97632)"
-       id="use176-9"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmr10-74"
-       transform="matrix(0.14,0,0,-0.14,263.66672,472.97632)"
-       id="use177-9"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmmi10-3d-1"
-       transform="matrix(0.2,0,0,-0.2,270.37676,469.57507)"
-       id="use178-3"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-    <use
-       xlink:href="#Cmmi10-bf-4"
-       transform="matrix(0.2,0,0,-0.2,280.37676,469.57507)"
-       id="use179-3"
-       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
-  </g>
-  <text
-     xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="111.47928"
      y="148.731"
@@ -3123,13 +2025,1111 @@
      style="stroke-linecap:butt;stroke-linejoin:round" />
   <text
      xml:space="preserve"
-     style="font-weight:500;font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#738394;stroke-width:2.5;stroke-linecap:square;stroke-opacity:0.341176;fill-opacity:1"
+     style="font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#212529;fill-opacity:1;stroke:#3f3f3f;stroke-width:0;stroke-linecap:square;stroke-linejoin:round"
+     x="328.69669"
+     y="-456.22852"
+     id="text233-9"
+     transform="rotate(90)"><tspan
+       sodipodi:role="line"
+       style="fill:#212529;fill-opacity:1;stroke-width:0"
+       x="328.69669"
+       y="-456.22852"
+       id="tspan244">INFORMATION</tspan><tspan
+       sodipodi:role="line"
+       style="fill:#212529;fill-opacity:1;stroke-width:0"
+       x="328.71542"
+       y="-441.82852"
+       id="tspan245">INPUT / NEURAL ACTIVITY</tspan></text>
+  <path
+     d="M 93.194319,388.75668 H 427.99431 v -118.8 H 93.194319 Z"
+     style="fill:none"
+     id="path97" />
+  <path
+     d="M 77.136562,230.76379 H 411.93656"
+     clip-path="url(#p876edd35ae)"
+     style="fill:none;stroke:#adb5bd;stroke-width:2;stroke-linecap:round;stroke-dasharray:7.4, 3.2;stroke-dashoffset:0"
+     id="path98"
+     transform="translate(16.057757,45.695664)" />
+  <path
+     d="M 77.136562,253.79328 H 411.93656"
+     clip-path="url(#p876edd35ae)"
+     style="fill:none;stroke:#ced4da;stroke-width:2;stroke-linecap:round;stroke-dasharray:7.4, 3.2;stroke-dashoffset:0"
+     id="path99"
+     transform="translate(16.057757,45.695664)" />
+  <path
+     d="m 92.354744,337.61472 33.818186,-1.07395 33.81818,-4.08426 33.81818,-10.69523 33.81818,-18.05984 33.81818,-22.87305 33.81818,-20.88753 33.81819,-14.6861 33.81818,-8.22599 33.81818,-1.98889"
+     clip-path="url(#p876edd35ae)"
+     style="fill:none;stroke:#6c757d;stroke-width:3.2;stroke-linecap:round"
+     id="path100"
+     transform="translate(16.057757,45.695664)" />
+  <g
+     clip-path="url(#p876edd35ae)"
+     id="g109"
+     transform="translate(16.057757,45.695664)">
+    <use
+       xlink:href="#m9a956e6378"
+       x="92.354744"
+       y="337.61472"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use100" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="126.17293"
+       y="336.54077"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use101" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="159.9911"
+       y="332.45651"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use102" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="193.8093"
+       y="321.76129"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use103" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="227.62747"
+       y="303.70145"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use104" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="261.44565"
+       y="280.8284"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use105" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="295.26382"
+       y="259.94086"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use106" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="329.08203"
+       y="245.25476"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use107" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="362.90021"
+       y="237.02876"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use108" />
+    <use
+       xlink:href="#m9a956e6378"
+       x="396.71838"
+       y="235.03989"
+       style="fill:#212529;stroke:#ffffff;stroke-width:1.2"
+       id="use109" />
+  </g>
+  <g
+     id="xtick_9"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_28">
+      <g
+         id="g110">
+        <use
+           xlink:href="#m9673a16d02"
+           x="92.354744"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use110" />
+      </g>
+    </g>
+    <g
+       id="text_27">
+      <!-- $\mathdefault{10^{-1}}$ -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,78.754744,357.54177)"
+         id="g114">
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="translate(0,0.684375)"
+           id="use111" />
+        <use
+           xlink:href="#Avenir-Book-30"
+           transform="translate(55.599991,0.684375)"
+           id="use112" />
+        <use
+           xlink:href="#Avenir-Book-2212"
+           transform="matrix(0.7,0,0,0.7,112.01893,33.442188)"
+           id="use113" />
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="matrix(0.7,0,0,0.7,158.63892,33.442188)"
+           id="use114" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_10"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_29">
+      <g
+         id="g115">
+        <use
+           xlink:href="#m9673a16d02"
+           x="168.44565"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use115" />
+      </g>
+    </g>
+    <g
+       id="text_28">
+      <!-- $\mathdefault{10^{0}}$ -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,157.97365,357.54177)"
+         id="g118">
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="translate(0,0.842187)"
+           id="use116" />
+        <use
+           xlink:href="#Avenir-Book-30"
+           transform="translate(55.599991,0.842187)"
+           id="use117" />
+        <use
+           xlink:href="#Avenir-Book-30"
+           transform="matrix(0.7,0,0,0.7,112.01893,33.6)"
+           id="use118" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_11"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_30">
+      <g
+         id="g119">
+        <use
+           xlink:href="#m9673a16d02"
+           x="244.53656"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use119" />
+      </g>
+    </g>
+    <g
+       id="text_29">
+      <!-- $\mathdefault{10^{1}}$ -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,234.06456,357.54177)"
+         id="g122">
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="translate(0,0.684375)"
+           id="use120" />
+        <use
+           xlink:href="#Avenir-Book-30"
+           transform="translate(55.599991,0.684375)"
+           id="use121" />
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="matrix(0.7,0,0,0.7,112.01893,33.442188)"
+           id="use122" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_12"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_31">
+      <g
+         id="g123">
+        <use
+           xlink:href="#m9673a16d02"
+           x="320.62747"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use123" />
+      </g>
+    </g>
+    <g
+       id="text_30">
+      <!-- $\mathdefault{10^{2}}$ -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,310.15547,357.54177)"
+         id="g126">
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="translate(0,0.842187)"
+           id="use124" />
+        <use
+           xlink:href="#Avenir-Book-30"
+           transform="translate(55.599991,0.842187)"
+           id="use125" />
+        <use
+           xlink:href="#Avenir-Book-32"
+           transform="matrix(0.7,0,0,0.7,112.01893,33.6)"
+           id="use126" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_13"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_32">
+      <g
+         id="g127">
+        <use
+           xlink:href="#m9673a16d02"
+           x="396.71838"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use127" />
+      </g>
+    </g>
+    <g
+       id="text_31">
+      <!-- $\mathdefault{10^{3}}$ -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,386.24638,357.54177)"
+         id="g130">
+        <defs
+           id="defs127">
+          <path
+             id="Avenir-Book-33"
+             d="m 1306,2586 h 236 q 199,0 381,44 183,45 317,144 134,100 214,260 80,160 80,384 0,364 -221,566 -220,202 -617,202 -288,0 -506,-128 -217,-128 -358,-372 l -403,205 q 205,365 521,541 317,176 733,176 269,0 506,-77 237,-77 416,-227 179,-150 284,-371 106,-221 106,-503 0,-185 -61,-352 -60,-166 -166,-301 -106,-134 -247,-233 -140,-99 -294,-150 l 19,-13 q 192,-39 352,-145 160,-105 275,-259 116,-153 180,-345 64,-192 64,-403 0,-314 -116,-557 Q 2886,429 2688,262 2490,96 2227,9 1965,-77 1670,-77 1171,-77 800,140 429,358 243,838 l 487,148 q 115,-327 342,-484 227,-156 637,-156 192,0 364,64 173,64 304,182 132,118 205,284 74,167 74,366 0,256 -96,432 -96,176 -256,284 -160,109 -368,157 -208,48 -432,48 h -198 z"
+             transform="scale(0.015625)" />
+        </defs>
+        <use
+           xlink:href="#Avenir-Book-31"
+           transform="translate(0,0.842187)"
+           id="use128" />
+        <use
+           xlink:href="#Avenir-Book-30"
+           transform="translate(55.599991,0.842187)"
+           id="use129" />
+        <use
+           xlink:href="#Avenir-Book-33"
+           transform="matrix(0.7,0,0,0.7,112.01893,33.6)"
+           id="use130" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_14"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_33">
+      <defs
+         id="defs130">
+        <path
+           id="m58296bd4fe"
+           d="M 0,0 V 1.7"
+           style="stroke:#878787;stroke-width:0.715" />
+      </defs>
+      <g
+         id="g131">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="80.568115"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use131" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_15"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_34">
+      <g
+         id="g132">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="84.980774"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use132" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_16"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_35">
+      <g
+         id="g133">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="88.873016"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use133" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_17"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_36">
+      <g
+         id="g134">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="115.26039"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use134" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_18"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_37">
+      <g
+         id="g135">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="128.65933"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use135" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_19"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_38">
+      <g
+         id="g136">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="138.16603"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use136" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_20"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_39">
+      <g
+         id="g137">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="145.54001"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use137" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_21"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_40">
+      <g
+         id="g138">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="151.56499"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use138" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_22"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_41">
+      <g
+         id="g139">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="156.65903"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use139" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_23"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_42">
+      <g
+         id="g140">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="161.07169"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use140" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_24"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_43">
+      <g
+         id="g141">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="164.96393"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use141" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_25"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_44">
+      <g
+         id="g142">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="191.3513"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use142" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_26"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_45">
+      <g
+         id="g143">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="204.75024"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use143" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_27"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_46">
+      <g
+         id="g144">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="214.25694"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use144" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_28"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_47">
+      <g
+         id="g145">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="221.63092"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use145" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_29"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_48">
+      <g
+         id="g146">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="227.65588"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use146" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_30"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_49">
+      <g
+         id="g147">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="232.74994"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use147" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_31"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_50">
+      <g
+         id="g148">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="237.1626"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use148" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_32"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_51">
+      <g
+         id="g149">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="241.05484"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use149" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_33"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_52">
+      <g
+         id="g150">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="267.4422"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use150" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_34"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_53">
+      <g
+         id="g151">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="280.84116"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use151" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_35"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_54">
+      <g
+         id="g152">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="290.34787"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use152" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_36"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_55">
+      <g
+         id="g153">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="297.72183"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use153" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_37"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_56">
+      <g
+         id="g154">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="303.7468"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use154" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_38"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_57">
+      <g
+         id="g155">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="308.84085"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use155" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_39"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_58">
+      <g
+         id="g156">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="313.25351"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use156" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_40"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_59">
+      <g
+         id="g157">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="317.14575"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use157" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_41"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_60">
+      <g
+         id="g158">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="343.53311"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use158" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_42"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_61">
+      <g
+         id="g159">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="356.93207"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use159" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_43"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_62">
+      <g
+         id="g160">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="366.43875"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use160" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_44"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_63">
+      <g
+         id="g161">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="373.81274"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use161" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_45"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_64">
+      <g
+         id="g162">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="379.83771"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use162" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_46"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_65">
+      <g
+         id="g163">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="384.93176"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use163" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_47"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_66">
+      <g
+         id="g164">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="389.34442"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use164" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="xtick_48"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_67">
+      <g
+         id="g165">
+        <use
+           xlink:href="#m58296bd4fe"
+           x="393.23666"
+           y="343.06104"
+           style="fill:#878787;stroke:#878787;stroke-width:0.715"
+           id="use165" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="ytick_9"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_68">
+      <g
+         id="g174">
+        <use
+           xlink:href="#m29b8f32b38"
+           x="77.136559"
+           y="337.89581"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use174" />
+      </g>
+    </g>
+    <g
+       id="text_33">
+      <!-- 0 bit -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,45.507062,343.03618)"
+         id="g179">
+        <defs
+           id="defs174">
+          <path
+             id="Avenir-Book-20"
+             transform="scale(0.015625)"
+             d="" />
+          <path
+             id="Avenir-Book-62"
+             d="m 3194,1498 q 0,249 -80,466 -80,218 -228,378 -147,160 -355,253 -208,93 -470,93 -263,0 -481,-93 -217,-93 -377,-253 -160,-160 -250,-378 -89,-217 -89,-466 0,-250 89,-468 90,-217 250,-377 160,-160 377,-253 218,-93 481,-93 262,0 470,93 208,93 355,253 148,160 228,377 80,218 80,468 z M 461,4838 H 883 V 2496 h 13 q 102,154 243,262 141,109 294,179 154,71 317,103 164,32 311,32 352,0 643,-119 291,-118 502,-329 212,-211 330,-499 118,-288 118,-627 0,-340 -118,-628 Q 3418,582 3206,371 2995,160 2704,41 2413,-77 2061,-77 1914,-77 1750,-45 1587,-13 1433,57 1280,128 1139,237 998,346 896,499 H 883 V 0 H 461 Z"
+             transform="scale(0.015625)" />
+          <path
+             id="Avenir-Book-69"
+             d="m 1075,4147 q 0,-134 -96,-221 -96,-86 -211,-86 -115,0 -211,86 -96,87 -96,221 0,135 96,221 96,86 211,86 115,0 211,-86 96,-86 96,-221 z M 979,0 H 557 v 2995 h 422 z"
+             transform="scale(0.015625)" />
+          <path
+             id="Avenir-Book-74"
+             d="M 2010,2611 H 1146 V 845 q 0,-167 32,-273 32,-105 89,-163 58,-57 138,-80 80,-22 176,-22 109,0 224,32 115,32 211,83 L 2035,32 Q 1798,-77 1466,-77 1344,-77 1213,-45 1082,-13 973,76 864,166 793,320 723,474 723,723 V 2611 H 90 v 384 h 633 v 845 h 423 v -845 h 864 z"
+             transform="scale(0.015625)" />
+        </defs>
+        <use
+           xlink:href="#Avenir-Book-30"
+           id="use175" />
+        <use
+           xlink:href="#Avenir-Book-20"
+           x="55.599991"
+           id="use176" />
+        <use
+           xlink:href="#Avenir-Book-62"
+           x="83.399979"
+           id="use177" />
+        <use
+           xlink:href="#Avenir-Book-69"
+           x="144.49997"
+           id="use178" />
+        <use
+           xlink:href="#Avenir-Book-74"
+           x="168.49995"
+           id="use179" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="ytick_10"
+     transform="translate(16.057757,45.695664)">
+    <g
+       id="line2d_69">
+      <g
+         id="g180">
+        <use
+           xlink:href="#m29b8f32b38"
+           x="77.136559"
+           y="229.42624"
+           style="fill:#878787;stroke:#878787;stroke-width:1.1"
+           id="use180" />
+      </g>
+    </g>
+    <g
+       id="text_34">
+      <!-- 1.5 bit -->
+      <g
+         style="fill:#4a4a4a"
+         transform="matrix(0.136,0,0,-0.136,34.165937,234.56661)"
+         id="g187">
+        <use
+           xlink:href="#Avenir-Book-31"
+           id="use181" />
+        <use
+           xlink:href="#Avenir-Book-2e"
+           x="55.599991"
+           id="use182" />
+        <use
+           xlink:href="#Avenir-Book-35"
+           x="83.399979"
+           id="use183" />
+        <use
+           xlink:href="#Avenir-Book-20"
+           x="138.99997"
+           id="use184" />
+        <use
+           xlink:href="#Avenir-Book-62"
+           x="166.79996"
+           id="use185" />
+        <use
+           xlink:href="#Avenir-Book-69"
+           x="227.89995"
+           id="use186" />
+        <use
+           xlink:href="#Avenir-Book-74"
+           x="251.89993"
+           id="use187" />
+      </g>
+    </g>
+  </g>
+  <g
+     id="text_35"
+     transform="translate(16.057757,45.695664)">
+    <!-- $I_{\mathbf{x},h}$ -->
+    <g
+       style="fill:#262626"
+       transform="matrix(0,-0.22,-0.22,0,23.345937,301.26102)"
+       id="g191">
+      <defs
+         id="defs187">
+        <path
+           id="Cmmi10-49"
+           d="m 269,0 q -63,0 -63,84 25,141 82,141 378,0 512,25 147,34 184,191 l 879,3515 q 12,63 12,82 0,40 -21,57 -20,18 -63,27 -128,25 -485,25 -65,0 -65,84 22,82 34,111 13,30 75,30 h 1788 q 62,0 62,-84 -3,-16 -13,-54 -9,-37 -25,-62 -15,-25 -46,-25 -375,0 -519,-25 -141,-34 -178,-194 L 1544,416 q -16,-78 -16,-85 0,-15 5,-29 5,-14 19,-25 14,-11 28,-16 14,-5 33,-11 121,-25 487,-25 63,0 63,-84 Q 2141,50 2128,25 2116,0 2053,0 Z"
+           transform="scale(0.015625)" />
+        <path
+           id="Cmb10-78"
+           d="m 109,0 v 325 q 519,0 569,59 l 703,966 -793,1166 H 141 v 325 h 1465 v -325 h -275 l 435,-635 415,582 q 0,28 -109,40 -109,13 -184,13 v 325 h 1268 v -325 q -518,0 -572,-60 L 1959,1594 2816,325 h 456 V 0 H 1797 v 325 h 278 l -500,738 -494,-685 q 0,-22 112,-38 113,-15 188,-15 V 0 Z"
+           transform="scale(0.015625)" />
+        <path
+           id="Cmmi10-3b"
+           d="m 634,-1153 q 0,28 25,53 232,222 360,513 128,290 128,612 v 78 Q 1044,0 891,0 744,0 641,103 538,206 538,353 q 0,150 103,250 103,100 250,100 228,0 325,-211 97,-211 97,-467 0,-356 -143,-676 -142,-321 -401,-577 -25,-13 -41,-13 -31,0 -63,29 -31,28 -31,59 z"
+           transform="scale(0.015625)" />
+        <path
+           id="Cmmi10-68"
+           d="m 341,116 q 0,37 6,56 l 928,3700 q 25,109 31,172 0,103 -415,103 -66,0 -66,84 3,16 14,56 11,41 28,63 17,22 49,22 l 862,69 h 19 q 0,-7 22,-18 22,-10 25,-14 12,-31 12,-50 L 1356,2363 q 394,465 935,465 225,0 389,-78 164,-78 256,-236 92,-158 92,-376 0,-263 -117,-635 -117,-372 -292,-831 -91,-209 -91,-384 0,-191 147,-191 250,0 417,267 167,267 236,577 13,37 50,37 h 78 q 25,0 41,-17 16,-17 16,-39 0,-6 -7,-19 Q 3450,672 3339,448 3228,225 3059,76 2891,-72 2663,-72 q -225,0 -385,155 -159,155 -159,376 0,119 50,250 181,482 301,860 121,378 121,665 0,185 -72,307 -72,122 -241,122 -344,0 -600,-211 -256,-211 -444,-558 L 800,147 Q 775,50 703,-11 631,-72 538,-72 q -82,0 -140,55 -57,55 -57,133 z"
+           transform="scale(0.015625)" />
+      </defs>
+      <use
+         xlink:href="#Cmmi10-49"
+         transform="translate(0,0.6875)"
+         id="use188" />
+      <use
+         xlink:href="#Cmb10-78"
+         transform="matrix(0.7,0,0,0.7,43.896484,-16.31875)"
+         id="use189" />
+      <use
+         xlink:href="#Cmmi10-3b"
+         transform="matrix(0.7,0,0,0.7,80.776367,-16.31875)"
+         id="use190" />
+      <use
+         xlink:href="#Cmmi10-68"
+         transform="matrix(0.7,0,0,0.7,112.44727,-16.31875)"
+         id="use191" />
+    </g>
+  </g>
+  <path
+     d="m 93.194319,388.75668 v -118.8"
+     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
+     id="path191" />
+  <path
+     d="m 427.99431,388.75668 v -118.8"
+     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
+     id="path192" />
+  <path
+     d="M 93.19432,388.75668 H 427.99431"
+     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
+     id="path193" />
+  <path
+     d="M 93.19432,269.95668 H 427.99431"
+     style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
+     id="path194" />
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
+     x="414.37613"
+     y="382.49994"
+     id="text1-2-4-1-0"><tspan
+       sodipodi:role="line"
+       id="tspan1-7-9-7-5"
+       style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
+       x="414.39484"
+       y="382.49994">(d)</tspan></text>
+  <g
+     id="g22"
+     transform="translate(2.1611841,-53.921255)">
+    <use
+       xlink:href="#Cmmi10-bf-4"
+       id="use172-8"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
+       transform="matrix(0.2,0,0,-0.2,227.73313,469.57507)" />
+    <use
+       xlink:href="#Cmr10-69"
+       transform="matrix(0.14,0,0,-0.14,236.47336,472.97632)"
+       id="use173-5"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+    <use
+       xlink:href="#Cmr10-6e"
+       transform="matrix(0.14,0,0,-0.14,240.34934,472.97632)"
+       id="use174-8"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+    <use
+       xlink:href="#Cmr10-70-7"
+       transform="matrix(0.14,0,0,-0.14,248.1218,472.97632)"
+       id="use175-9"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+    <use
+       xlink:href="#Cmr10-75-4"
+       transform="matrix(0.14,0,0,-0.14,255.89426,472.97632)"
+       id="use176-9"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+    <use
+       xlink:href="#Cmr10-74"
+       transform="matrix(0.14,0,0,-0.14,263.66672,472.97632)"
+       id="use177-9"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+    <use
+       xlink:href="#Cmmi10-3d-1"
+       transform="matrix(0.2,0,0,-0.2,270.37676,469.57507)"
+       id="use178-3"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+    <use
+       xlink:href="#Cmmi10-bf-4"
+       transform="matrix(0.2,0,0,-0.2,280.37676,469.57507)"
+       id="use179-3"
+       style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round" />
+  </g>
+  <text
+     xml:space="preserve"
+     style="font-weight:500;font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#738394;fill-opacity:1;stroke-width:2.5;stroke-linecap:square;stroke-opacity:0.341176"
      x="175.88844"
-     y="295.2222"
+     y="292.2222"
      id="text1"><tspan
        sodipodi:role="line"
        id="tspan1"
-       style="stroke-width:2.5;fill:#738394;fill-opacity:1"
+       style="fill:#738394;fill-opacity:1;stroke-width:2.5"
        x="175.9072"
-       y="295.2222">UPPER / LOWER BOUNDS</tspan></text>
+       y="292.2222">UPPER / LOWER BOUNDS</tspan></text>
 </svg>

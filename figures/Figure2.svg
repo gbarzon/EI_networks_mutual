@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    width="577.28613pt"
-   height="494.48267pt"
-   viewBox="0 0 577.28613 494.48264"
+   height="482.72141pt"
+   viewBox="0 0 577.28613 482.72138"
    version="1.1"
    id="svg390"
    sodipodi:docname="Figure2.svg"
@@ -28,9 +28,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.2652078"
-     inkscape:cx="98.798001"
-     inkscape:cy="160.05276"
+     inkscape:zoom="1.0714761"
+     inkscape:cx="411.58174"
+     inkscape:cy="361.65062"
      inkscape:window-width="2752"
      inkscape:window-height="1026"
      inkscape:window-x="0"
@@ -841,21 +841,21 @@
          transform="scale(0.015625)" />
     </defs>
   </defs>
+  <path
+     d="M 0,482.72141 H 577.28611 V 0 H 0 Z"
+     style="fill:#ffffff;stroke-width:1.05893"
+     id="path1" />
   <rect
      style="fill:#cdcdcd;fill-opacity:0.05;stroke:#b4b4b4;stroke-width:0.970998;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="rect479103-3-0-1"
      width="545.71936"
      height="265.0369"
      x="26.953045"
-     y="7.6076818"
+     y="1.5559108"
      ry="5.472446" />
-  <path
-     d="M 694.99139,419.00728 H 1272.2775 V -75.475403 H 694.99139 Z"
-     style="fill:#ffffff;stroke-width:1.07176"
-     id="path1" />
   <g
      id="legend_1"
-     transform="translate(30.35767,-68.504498)">
+     transform="translate(30.35767,-74.556269)">
     <g
        id="patch_7">
       <path
@@ -936,10 +936,10 @@
   </g>
   <g
      id="matplotlib.axis_6"
-     transform="translate(6.2100309,7.3121352)" />
+     transform="translate(6.2100309,1.2603643)" />
   <g
      id="LineCollection_4"
-     transform="translate(6.2100309,7.3121352)" />
+     transform="translate(6.2100309,1.2603643)" />
   <defs
      id="defs390">
     <clipPath
@@ -974,30 +974,30 @@
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="-132.37149"
-     y="287.86734"
+     y="281.81558"
      id="text1-2-4-1-0-6-48-5"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8-6"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="-132.35278"
-       y="287.86734">(c)</tspan></text>
+       y="281.81558">(c)</tspan></text>
   <path
-     d="m -1042.5099,370.19877 h 553.14528 v -490.62963 h -553.14528 z"
+     d="m -1042.5099,364.147 h 553.14528 v -490.62963 h -553.14528 z"
      style="fill:#ffffff;stroke-width:1.04502;stroke-linecap:butt;stroke-linejoin:round"
      id="path1-3" />
   <path
      style="fill:none;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m -540.0524,147.23645 42.01922,-40.06748"
+     d="m -540.0524,141.18468 42.01922,-40.06748"
      id="path397-9-9"
      sodipodi:nodetypes="cc" />
   <path
      style="fill:none;fill-opacity:1;stroke:#b4b4b4;stroke-width:0.5;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m -779.18146,108.68179 -151.92456,38.55466"
+     d="m -779.18146,102.63002 -151.92456,38.55466"
      id="path397-0"
      sodipodi:nodetypes="cc" />
   <g
      id="patch_8-5"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 88.235875,391.79109 H 423.03587 V 247.16501 H 88.235875 Z"
@@ -1006,7 +1006,7 @@
   </g>
   <g
      id="LineCollection_1-2"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 92.95406,254.04328 H 419.81769"
@@ -1017,7 +1017,7 @@
   </g>
   <g
      id="matplotlib.axis_3-3"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="xtick_3-7"
@@ -1177,7 +1177,7 @@
   </g>
   <g
      id="ytick_3-1"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_8-3"
@@ -1268,7 +1268,7 @@
   </g>
   <g
      id="ytick_4-8"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_9-1"
@@ -1343,7 +1343,7 @@
   </g>
   <g
      id="ytick_5-5"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_10-4"
@@ -1411,7 +1411,7 @@
   </g>
   <g
      id="text_15-1"
-     transform="matrix(1.1680216,0,0,1.1680216,-1041.6675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1041.6675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <!-- $I_{\mathbf{x},h}$ -->
     <g
@@ -1461,7 +1461,7 @@
   </g>
   <g
      id="line2d_11-1"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="m 112.67973,253.84512 3.90925,0.13788 3.90926,-0.24408 3.90925,0.41511 3.90926,0.16286 3.90925,1.11248 3.90926,0.90763 3.90925,1.82035 3.90925,2.08263 3.90926,2.35543 3.90925,2.44098 3.90926,2.62888 3.90925,2.89857 3.90926,2.26329 3.90925,3.35561 3.90925,2.29264 3.90926,3.09061 3.90925,2.4858 3.90926,2.28236 3.90925,2.6233 3.90926,2.39701 3.90925,2.10987 3.90925,2.3137 3.90926,2.35668 3.90925,1.59332 3.90926,2.40569 3.90925,1.40844 3.90926,2.19265 3.90925,1.6534 3.90925,1.34785 3.90926,1.95006 3.90925,1.42321 3.90926,2.10007 3.90925,1.04661 3.90926,1.85834 3.90925,0.88259 3.90925,1.5207 3.90926,0.86883 3.90925,1.4793 3.90926,1.18399 3.90925,0.9417 3.90926,0.97649 3.90925,1.50344 3.90925,1.01925 3.90926,1.04 3.90925,0.8684 3.90926,0.64737 3.90925,1.4212 3.90926,0.60264 3.90925,1.39047 3.90925,0.85707 3.90926,0.54888 3.90925,0.72461 3.90926,0.53099 3.90925,0.46418 3.90925,1.01909 3.90926,0.734 3.90925,0.87926 3.90926,1.0029 3.90925,0.2531 3.90926,0.95909 3.90925,0.39278 3.90925,0.71948 3.90926,0.3248 3.90925,0.7628 3.90926,0.4965 3.90925,0.065 3.90926,1.1742 3.90925,0.64488 3.90925,0.32886 3.90926,0.35997 3.90925,0.62251 3.90926,0.20055 3.90925,0.91842 3.90926,0.16669"
@@ -1471,7 +1471,7 @@
   </g>
   <g
      id="LineCollection_2-5"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 112.09442,390.35407 V 254.04328"
@@ -1482,7 +1482,7 @@
   </g>
   <g
      id="line2d_12-8"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="m 162.59523,254.10737 0.6097,1.00816 0.6097,4.56172 0.60971,5.97298 0.6097,6.47918 0.6097,6.80562 0.40923,4.42919 0.20047,2.02552 0.60971,5.46745 0.6097,5.54782 0.6097,4.6602 0.60971,4.05325 0.6097,3.94052 0.6097,3.7105 0.20875,0.92465 0.40095,2.2827 0.60971,3.0011 0.6097,2.48692 0.6097,2.58418 0.60971,2.36551 0.6097,1.71736 0.6097,2.17194 0.008,0.10322 0.60143,1.95414 0.60971,1.62806 0.6097,1.70918 0.6097,1.37364 1.6369,3.44516 4.06744,6.97381 4.06744,4.84667 4.06744,3.99622 4.06744,2.83435 4.06745,2.75492 4.06744,1.83751 4.06744,2.48106 4.06744,1.15162 4.06744,1.22009 4.06744,1.04233 4.06744,1.07932 4.06744,0.68008 4.06744,0.61415 4.06744,1.29129 4.06744,0.95239 4.06745,0.47431 4.06744,0.64976 4.06744,0.45661 4.06744,0.65509 4.06744,0.31846 4.06744,0.36606 4.06744,0.66833 4.06744,-0.2405 4.06744,0.67187 4.06744,0.74658 4.06745,0.16861 4.06744,0.32094 4.06744,0.37804 4.06744,0.1212 4.06744,0.17558 4.06744,0.35515 4.06744,0.17247 4.06744,0.0276 4.06745,0.6271 4.06744,0.0628 4.06744,0.0571 4.06744,0.003 4.06744,0.2605 4.06744,0.21311 4.06744,0.055 4.06744,0.38159 4.06744,0.38393 4.06744,-0.0498 4.06744,-0.10683 4.06745,0.41861 4.06744,-0.005 4.06744,-0.0932 4.06744,0.23619 4.06744,-0.087 4.06744,0.56172 4.06744,0.14621 4.06744,-0.041 4.06744,0.22412 4.06744,0.0346 4.06745,0.36921"
@@ -1492,7 +1492,7 @@
   </g>
   <g
      id="LineCollection_3-9"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 161.98552,390.35407 V 254.04328"
@@ -1503,7 +1503,7 @@
   </g>
   <g
      id="patch_9-2"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 88.235875,391.79109 V 247.16501"
@@ -1512,7 +1512,7 @@
   </g>
   <g
      id="patch_10-7"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 423.03587,391.79109 V 247.16501"
@@ -1521,7 +1521,7 @@
   </g>
   <g
      id="patch_11-8"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 88.235875,391.79109 H 423.03587"
@@ -1530,7 +1530,7 @@
   </g>
   <g
      id="patch_12-8"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.45762)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-147.50939)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 88.235875,247.16501 H 423.03587"
@@ -1539,7 +1539,7 @@
   </g>
   <g
      id="text_16-0"
-     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-135.21972)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1034.1675,-141.27149)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <!-- $k_c$ -->
     <g
@@ -1560,7 +1560,7 @@
   </g>
   <g
      id="text_17-5"
-     transform="matrix(1.1680216,0,0,1.1680216,-1003.0982,-135.21972)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1003.0982,-141.27149)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <!-- $k_c$ -->
     <g
@@ -1581,7 +1581,7 @@
   </g>
   <g
      id="g392-1"
-     transform="matrix(1.1680216,0,0,1.1680216,-1093.8305,-150.35401)"
+     transform="matrix(1.1680216,0,0,1.1680216,-1093.8305,-156.40578)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_13-5"
@@ -1693,24 +1693,24 @@
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.0163px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:center;letter-spacing:0.0438008px;word-spacing:0px;text-anchor:middle;fill:#184e77;fill-opacity:1;stroke-width:2.92005;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.341176"
      x="-601.14819"
-     y="171.10736"
+     y="165.05559"
      id="text392-5"><tspan
        sodipodi:role="line"
        id="tspan392-6"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#184e77;fill-opacity:1;stroke-width:2.92005"
        x="-601.12628"
-       y="171.10736">INPUT ENTROPY</tspan></text>
+       y="165.05559">INPUT ENTROPY</tspan></text>
   <rect
      style="fill:#cdcdcd;fill-opacity:0.05;stroke:#b4b4b4;stroke-width:0.608;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="rect479103-3-0-1-3"
      width="288.29355"
      height="196.70334"
      x="-784.28754"
-     y="-87.92112"
+     y="-93.972893"
      ry="6.2311821" />
   <g
      id="patch_16-6"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 336.63587,201.71109 H 552.63588 V 72.111094 H 336.63587 Z"
@@ -1719,7 +1719,7 @@
   </g>
   <g
      id="line2d_17-0"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="m 346.45406,78.183545 h 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 l 2.65356,2e-6 2.65356,2.3e-5 2.65357,1.63e-4 2.65356,8.53e-4 2.65356,0.0034 2.65357,0.01082 2.65356,0.02815 2.65356,0.0619 2.65356,0.117922 2.65357,0.198772 2.65356,0.301876 2.65356,0.419473 2.65356,0.540383 2.65357,0.652717 2.65356,0.746405 2.65356,0.814804 2.65357,0.855162 2.65356,0.868148 2.65356,0.856911 2.65356,0.825999 2.65356,0.780443 2.65357,0.725075 2.65356,0.664135 2.65356,0.601075 2.65357,0.538538 2.65356,0.478417 2.65356,0.421963 2.65356,0.369922 2.65357,0.32264 2.65356,0.280186 2.65356,0.24243 2.65356,0.209113 2.65357,0.179903 2.65356,0.154431 2.65356,0.132317 2.65356,0.113189 2.65357,0.0967 2.65356,0.08251 2.65356,0.07034"
@@ -1729,7 +1729,7 @@
   </g>
   <g
      id="line2d_18-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="m 346.45406,78.183545 h 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65357 l 2.65356,5e-6 2.65356,6.1e-5 2.65356,5.51e-4 2.65357,0.0035 2.65356,0.01618 2.65356,0.05854 2.65356,0.170402 2.65357,0.411801 2.65356,0.848322 2.65356,1.523 2.65356,2.427687 2.65357,3.491302 2.65356,4.594521 2.65356,5.604764 2.65357,6.413679 2.65356,6.96018 2.65356,7.23334 2.65356,7.26023 2.65357,7.08851 2.65356,6.77117 2.65356,6.35677 2.65356,5.88512 2.65357,5.3866 2.65356,4.88324 2.65356,4.39063 2.65357,3.91939 2.65356,3.47654 2.65356,3.06628 2.65356,2.69081 2.65356,2.35075 2.65357,2.0455 2.65356,1.77365 2.65356,1.5332 2.65357,1.32177 2.65356,1.13683 2.65356,0.97577 2.65356,0.83606 2.65357,0.71527 2.65356,0.61114 2.65356,0.52156 2.65356,0.44471 2.65357,0.37886 2.65356,0.32254 2.65356,0.27442 2.65356,0.23336 2.65357,0.19837 2.65356,0.16855 2.65356,0.14318"
@@ -1739,7 +1739,7 @@
   </g>
   <g
      id="line2d_19-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="m 346.45406,78.183545 h 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 l 2.65357,3e-6 2.65356,2.9e-5 2.65356,1.88e-4 2.65356,9.22e-4 2.65357,0.0035 2.65356,0.01045 2.65356,0.02603 2.65357,0.05521 2.65356,0.102064 2.65356,0.167902 2.65356,0.250143 2.65357,0.342623 2.65356,0.437085 2.65356,0.525163 2.65356,0.600087 2.65357,0.65763 2.65356,0.696279 2.65356,0.716786 2.65356,0.721427 2.65357,0.713235 2.65356,0.695334 2.65356,0.670506 2.65357,0.640943 2.65356,0.608196 2.65356,0.573259 2.65356,0.536732 2.65357,0.499007 2.65356,0.460444 2.65356,0.421462 2.65356,0.382589 2.65357,0.344423 2.65356,0.307577 2.65356,0.272607 2.65357,0.239957 2.65356,0.209931 2.65356,0.182689 2.65356,0.158263 2.65356,0.136579 2.65357,0.117492 2.65356,0.100808 2.65356,0.08631 2.65357,0.07376 2.65356,0.06295 2.65356,0.05366 2.65356,0.0457 2.65357,0.03889 2.65356,0.03308 2.65356,0.02812 2.65356,0.02389 2.65357,0.02029 2.65356,0.01723 2.65356,0.01463 2.65356,0.01242 2.65357,0.01054 2.65356,0.0089 2.65356,0.0076"
@@ -1749,7 +1749,7 @@
   </g>
   <g
      id="line2d_20-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="m 346.45406,78.183545 h 2.65356 2.65356 2.65356 2.65357 2.65356 2.65356 2.65356 2.65357 2.65356 l 2.65356,9e-6 2.65357,1.02e-4 2.65356,8.33e-4 2.65356,0.0048 2.65356,0.02116 2.65357,0.07232 2.65356,0.200482 2.65356,0.464699 2.65356,0.923711 2.65357,1.608457 2.65356,2.498051 2.65356,3.514477 2.65356,4.541373 2.65357,5.458095 2.65356,6.172086 2.65356,6.6361 2.65357,6.84759 2.65356,6.83623 2.65356,6.64817 2.65356,6.333 2.65357,5.93557 2.65356,5.49262 2.65356,5.03214 2.65356,4.57443 2.65357,4.1336 2.65356,3.71894 2.65356,3.33605 2.65356,2.98766 2.65357,2.67433 2.65356,2.39487 2.65356,2.14683 2.65357,1.92688 2.65356,1.73121 2.65356,1.55598 2.65356,1.39757 2.65357,1.25302 2.65356,1.12005 2.65356,0.99719 2.65356,0.8836 2.65357,0.77892 2.65356,0.68305 2.65356,0.59595 2.65357,0.51753 2.65356,0.44756 2.65356,0.38562 2.65356,0.33125 2.65356,0.2838 2.65357,0.24265 2.65356,0.2071 2.65356,0.17653 2.65357,0.1503 2.65356,0.12787 2.65356,0.1087 2.65356,0.0924 2.65357,0.0785 2.65356,0.0666 2.65356,0.0565 2.65356,0.048 2.65357,0.0407 2.65356,0.0345 2.65356,0.0293 2.65356,0.0249 2.65357,0.0211 2.65356,0.0179 2.65356,0.0152"
@@ -1759,7 +1759,7 @@
   </g>
   <g
      id="PathCollection_1-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="fill:#9ba2ac;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round">
     <defs
        id="defs118-3">
@@ -2226,7 +2226,7 @@
   </g>
   <g
      id="PathCollection_2-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <defs
        id="defs192-8">
@@ -2693,7 +2693,7 @@
   </g>
   <g
      id="xtick_8-8"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_21-9"
@@ -2753,7 +2753,7 @@
   </g>
   <g
      id="xtick_9-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_22-6"
@@ -2802,7 +2802,7 @@
   </g>
   <g
      id="xtick_10-3"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_23-0"
@@ -2851,7 +2851,7 @@
   </g>
   <g
      id="xtick_11-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_24-3"
@@ -2895,7 +2895,7 @@
   </g>
   <g
      id="xtick_12-3"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_25-8"
@@ -2939,7 +2939,7 @@
   </g>
   <g
      id="xtick_13-3"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_26-3"
@@ -2983,7 +2983,7 @@
   </g>
   <g
      id="xtick_14-0"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_27-3"
@@ -3009,7 +3009,7 @@
   </g>
   <g
      id="xtick_15-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_28-0"
@@ -3028,7 +3028,7 @@
   </g>
   <g
      id="xtick_16-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_29-9"
@@ -3047,7 +3047,7 @@
   </g>
   <g
      id="xtick_17-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_30-0"
@@ -3066,7 +3066,7 @@
   </g>
   <g
      id="xtick_18-0"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_31-0"
@@ -3085,7 +3085,7 @@
   </g>
   <g
      id="xtick_19-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_32-9"
@@ -3104,7 +3104,7 @@
   </g>
   <g
      id="xtick_20-9"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_33-0"
@@ -3123,7 +3123,7 @@
   </g>
   <g
      id="xtick_21-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_34-4"
@@ -3142,7 +3142,7 @@
   </g>
   <g
      id="xtick_22-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_35-4"
@@ -3161,7 +3161,7 @@
   </g>
   <g
      id="xtick_23-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_36-0"
@@ -3180,7 +3180,7 @@
   </g>
   <g
      id="xtick_24-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_37-5"
@@ -3199,7 +3199,7 @@
   </g>
   <g
      id="xtick_25-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_38-9"
@@ -3218,7 +3218,7 @@
   </g>
   <g
      id="xtick_26-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_39-2"
@@ -3237,7 +3237,7 @@
   </g>
   <g
      id="xtick_27-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_40-8"
@@ -3256,7 +3256,7 @@
   </g>
   <g
      id="xtick_28-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_41-7"
@@ -3275,7 +3275,7 @@
   </g>
   <g
      id="xtick_29-6"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_42-0"
@@ -3294,7 +3294,7 @@
   </g>
   <g
      id="xtick_30-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_43-0"
@@ -3313,7 +3313,7 @@
   </g>
   <g
      id="xtick_31-2"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_44-7"
@@ -3332,7 +3332,7 @@
   </g>
   <g
      id="xtick_32-0"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_45-9"
@@ -3351,7 +3351,7 @@
   </g>
   <g
      id="xtick_33-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_46-4"
@@ -3370,7 +3370,7 @@
   </g>
   <g
      id="xtick_34-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_47-8"
@@ -3389,7 +3389,7 @@
   </g>
   <g
      id="xtick_35-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_48-5"
@@ -3408,7 +3408,7 @@
   </g>
   <g
      id="xtick_36-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_49-9"
@@ -3427,7 +3427,7 @@
   </g>
   <g
      id="xtick_37-9"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_50-3"
@@ -3446,7 +3446,7 @@
   </g>
   <g
      id="xtick_38-6"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_51-4"
@@ -3465,7 +3465,7 @@
   </g>
   <g
      id="xtick_39-2"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_52-0"
@@ -3484,7 +3484,7 @@
   </g>
   <g
      id="xtick_40-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_53-2"
@@ -3503,7 +3503,7 @@
   </g>
   <g
      id="xtick_41-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_54-1"
@@ -3522,7 +3522,7 @@
   </g>
   <g
      id="xtick_42-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_55-8"
@@ -3541,7 +3541,7 @@
   </g>
   <g
      id="xtick_43-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_56-0"
@@ -3560,7 +3560,7 @@
   </g>
   <g
      id="xtick_44-3"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_57-7"
@@ -3579,7 +3579,7 @@
   </g>
   <g
      id="xtick_45-3"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_58-4"
@@ -3598,7 +3598,7 @@
   </g>
   <g
      id="xtick_46-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_59-5"
@@ -3617,7 +3617,7 @@
   </g>
   <g
      id="xtick_47-6"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_60-6"
@@ -3636,7 +3636,7 @@
   </g>
   <g
      id="xtick_48-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_61-7"
@@ -3655,7 +3655,7 @@
   </g>
   <g
      id="xtick_49-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_62-8"
@@ -3674,7 +3674,7 @@
   </g>
   <g
      id="xtick_50-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_63-0"
@@ -3693,7 +3693,7 @@
   </g>
   <g
      id="xtick_51-3"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_64-1"
@@ -3712,7 +3712,7 @@
   </g>
   <g
      id="xtick_52-9"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_65-5"
@@ -3731,7 +3731,7 @@
   </g>
   <g
      id="xtick_53-8"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_66-5"
@@ -3750,7 +3750,7 @@
   </g>
   <g
      id="xtick_54-9"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_67-6"
@@ -3769,7 +3769,7 @@
   </g>
   <g
      id="xtick_55-6"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_68-7"
@@ -3788,7 +3788,7 @@
   </g>
   <g
      id="xtick_56-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_69-0"
@@ -3807,7 +3807,7 @@
   </g>
   <g
      id="xtick_57-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_70-8"
@@ -3826,7 +3826,7 @@
   </g>
   <g
      id="xtick_58-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_71-7"
@@ -3845,7 +3845,7 @@
   </g>
   <g
      id="xtick_59-4"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_72-5"
@@ -3865,7 +3865,7 @@
   <g
      id="text_29-9"
      style="fill:#4a4a4a;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-1060.4114,-132.48053)">
+     transform="translate(-1060.4114,-138.5323)">
     <!-- $|k - k_c|$ -->
     <g
        style="fill:#4a4a4a;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
@@ -3911,7 +3911,7 @@
   </g>
   <g
      id="ytick_6-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_73-1"
@@ -3986,7 +3986,7 @@
   </g>
   <g
      id="ytick_7-5"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="line2d_74-3"
@@ -4055,7 +4055,7 @@
   <g
      id="text_32-7"
      style="fill:#4a4a4a;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-1060.4114,-132.48053)">
+     transform="translate(-1060.4114,-138.5323)">
     <!-- $I_{\mathbf{x},h}$ -->
     <g
        style="fill:#4a4a4a;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
@@ -4085,7 +4085,7 @@
   </g>
   <g
      id="patch_17-1"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 336.63587,201.71109 V 72.111094"
@@ -4094,7 +4094,7 @@
   </g>
   <g
      id="patch_18-6"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 552.63588,201.71109 V 72.111094"
@@ -4103,7 +4103,7 @@
   </g>
   <g
      id="patch_19-8"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 336.63587,201.71109 H 552.63588"
@@ -4112,7 +4112,7 @@
   </g>
   <g
      id="patch_20-7"
-     transform="translate(-1060.4114,-132.48053)"
+     transform="translate(-1060.4114,-138.5323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 336.63587,72.111094 H 552.63588"
@@ -4121,7 +4121,7 @@
   </g>
   <g
      id="legend_3-5"
-     transform="translate(-1063.4114,-124.98053)"
+     transform="translate(-1063.4114,-131.0323)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <g
        id="PathCollection_3-2"
@@ -4300,17 +4300,17 @@
      xml:space="preserve"
      style="font-weight:500;font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:5.271;stroke-linecap:square;stroke-linejoin:round;stroke-dasharray:6.73516, 5.85667;stroke-dashoffset:0;stroke-opacity:0.341176"
      x="-640.80078"
-     y="-72.208549"
+     y="-78.260323"
      id="text396-0"><tspan
        sodipodi:role="line"
        id="tspan396-9"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#4a4a4a;fill-opacity:1;stroke-width:5.271"
        x="-640.78204"
-       y="-72.208549">INFORMATION AT THE EDGE OF STABILITY</tspan></text>
+       y="-78.260323">INFORMATION AT THE EDGE OF STABILITY</tspan></text>
   <g
      id="g13"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-1044.9732,-120.9097)">
+     transform="translate(-1044.9732,-126.96147)">
     <path
        d="M 35.869916,231.60711 H 231.93557 V 62.215183 H 35.869916 Z"
        style="fill:none;stroke-width:1.17124;stroke-linecap:butt;stroke-linejoin:round"
@@ -4794,28 +4794,28 @@
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="-917.55194"
-     y="310.10229"
+     y="304.05054"
      id="text1-2-4-1-0-6-48-5-7"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8-6-1"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="-917.53326"
-       y="310.10229">(c)</tspan></text>
+       y="304.05054">(c)</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="-771.35608"
-     y="100.57655"
+     y="94.52478"
      id="text1-2-4-1-0-6-48-0-6"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8-60-0"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="-771.3374"
-       y="100.57655">(b)</tspan></text>
+       y="94.52478">(b)</tspan></text>
   <g
      id="text_16-2"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-288.9245,236.92568)">
+     transform="translate(-288.9245,230.87391)">
     <!-- $f(x) = \tanh(x)$ -->
     <g
        transform="matrix(0.16,0,0,-0.16,67.175875,287.9974)"
@@ -4920,7 +4920,7 @@
   <g
      id="text_26-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-511.60473,199.70138)">
+     transform="translate(-511.60473,193.64961)">
     <!-- $f(x) = x$ -->
     <g
        transform="matrix(0.16,0,0,-0.16,364.17588,287.9974)"
@@ -4960,89 +4960,89 @@
   <g
      id="line2d_20-6"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-25.753375,12.473408)" />
+     transform="translate(-25.753375,6.4216371)" />
   <use
      xlink:href="#Avenir-Book-20-1"
      x="194.59996"
      id="use40-3"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,23.000375,443.23542)" />
+     transform="matrix(0.152,0,0,-0.152,23.000375,437.18365)" />
   <use
      xlink:href="#Avenir-Book-20-1"
      x="194.59996"
      id="use49-4"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,23.000375,318.55775)" />
+     transform="matrix(0.152,0,0,-0.152,23.000375,312.50598)" />
   <use
      xlink:href="#Avenir-Book-20-1"
      x="194.59996"
      id="use135-7"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,293.00037,443.23542)" />
+     transform="matrix(0.152,0,0,-0.152,293.00037,437.18365)" />
   <use
      xlink:href="#Avenir-Book-20-1"
      x="194.59996"
      id="use144-56"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,293.00037,318.55775)" />
+     transform="matrix(0.152,0,0,-0.152,293.00037,312.50598)" />
   <use
      xlink:href="#Cmmi10-66"
      id="use64-9-3"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,433.76413)" />
+     transform="matrix(0,-0.16,-0.16,0,16.12825,427.71236)" />
   <use
      xlink:href="#Cmr10-28"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,425.94382)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,419.89205)"
      id="use65-0-1"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmmi10-78"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,419.73288)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,413.68111)"
      id="use66-9-7"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-29"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,410.60007)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,404.5483)"
      id="use67-8-4"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-3d"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,401.57976)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,395.52799)"
      id="use68-0-9"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-74"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,386.34069)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,380.28892)"
      id="use69-5-6"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-61"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,380.12976)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,374.07799)"
      id="use70-3-9"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-6e"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,372.12976)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,366.07799)"
      id="use71-5-8"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-68"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,363.24694)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,357.19517)"
      id="use72-0"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-28"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,354.36413)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,348.31236)"
      id="use73-3"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmmi10-78"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,348.15319)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,342.10142)"
      id="use74-6"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Cmr10-29"
-     transform="matrix(0,-0.16,-0.16,0,16.12825,339.02038)"
+     transform="matrix(0,-0.16,-0.16,0,16.12825,332.96861)"
      id="use75-6"
      style="fill:#b4b4b4;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round" />
   <rect
@@ -5051,11 +5051,11 @@
      width="545.83301"
      height="206.58905"
      x="26.896221"
-     y="280.34277"
+     y="274.29102"
      ry="4.2656231" />
   <g
      id="g135"
-     transform="translate(25.586381,0.0508814)">
+     transform="translate(25.586381,-6.0008895)">
     <g
        id="LineCollection_2-7-0"
        transform="matrix(1.1680216,0,0,1.0610024,240.28416,32.228755)"
@@ -5672,7 +5672,7 @@
   </g>
   <g
      id="LineCollection_2-7"
-     transform="matrix(1.1680216,0,0,1.0610024,3.370541,32.279644)"
+     transform="matrix(1.1680216,0,0,1.0610024,3.370541,26.227873)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <path
        d="M 112.09442,390.35407 V 254.04328"
@@ -5683,7 +5683,7 @@
   </g>
   <g
      id="text_16-1"
-     transform="matrix(1.1680216,0,0,1.1680216,3.370541,-3.2578486)"
+     transform="matrix(1.1680216,0,0,1.1680216,3.370541,-9.3096195)"
      style="stroke-linecap:butt;stroke-linejoin:round">
     <!-- $k_c$ -->
     <g
@@ -5705,7 +5705,7 @@
   <g
      id="patch_8-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="M 88.235875,434.99109 H 298.83587 V 290.36501 H 88.235875 Z"
        style="fill:none;stroke-linecap:butt;stroke-linejoin:round"
@@ -5714,7 +5714,7 @@
   <g
      id="xtick_3-3"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <g
        id="line2d_5-7"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -5745,7 +5745,7 @@
   <g
      id="xtick_4-80"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <g
        id="line2d_6-9"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -5783,7 +5783,7 @@
   <g
      id="xtick_5-5"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <g
        id="line2d_7-5"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -5821,7 +5821,7 @@
   <g
      id="text_11-6"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,8.4551514)">
+     transform="translate(0.592914,2.4033805)">
     <!-- $k$ -->
     <g
        style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
@@ -5836,86 +5836,86 @@
   </g>
   <path
      id="use35-8"
-     d="m 88.828792,436.47203 h -3"
+     d="m 88.828792,430.42026 h -3"
      style="fill:#878787;stroke:#878787;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Avenir-Book-31"
      id="use36-8"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,41.846664,442.21716)" />
+     transform="matrix(0.152,0,0,-0.152,41.846664,436.16539)" />
   <use
      xlink:href="#Avenir-Book-2e-76"
      x="55.599991"
      id="use37-53"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,41.846664,442.21716)" />
+     transform="matrix(0.152,0,0,-0.152,41.846664,436.16539)" />
   <use
      xlink:href="#Avenir-Book-33-7"
      x="83.399979"
      id="use38-1"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,41.846664,442.21716)" />
+     transform="matrix(0.152,0,0,-0.152,41.846664,436.16539)" />
   <use
      xlink:href="#Avenir-Book-62-4"
      x="222.39995"
      id="use41-9"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,32.846664,442.21716)" />
+     transform="matrix(0.152,0,0,-0.152,32.846664,436.16539)" />
   <use
      xlink:href="#Avenir-Book-69-8"
      x="283.49994"
      id="use42-1"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,32.846664,442.21716)" />
+     transform="matrix(0.152,0,0,-0.152,32.846664,436.16539)" />
   <use
      xlink:href="#Avenir-Book-74-1"
      x="307.49994"
      id="use43-0"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,32.846664,442.21716)" />
+     transform="matrix(0.152,0,0,-0.152,32.846664,436.16539)" />
   <path
      id="use44-0"
-     d="m 88.828792,311.79438 h -3"
+     d="m 88.828792,305.74261 h -3"
      style="fill:#878787;stroke:#878787;stroke-width:1.1;stroke-linecap:butt;stroke-linejoin:round" />
   <use
      xlink:href="#Avenir-Book-31"
      id="use45-0"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,41.846664,317.53949)" />
+     transform="matrix(0.152,0,0,-0.152,41.846664,311.48772)" />
   <use
      xlink:href="#Avenir-Book-2e-76"
      x="55.599991"
      id="use46-3"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,41.846664,317.53949)" />
+     transform="matrix(0.152,0,0,-0.152,41.846664,311.48772)" />
   <use
      xlink:href="#Avenir-Book-35"
      x="83.399979"
      id="use47-2"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,41.846664,317.53949)" />
+     transform="matrix(0.152,0,0,-0.152,41.846664,311.48772)" />
   <use
      xlink:href="#Avenir-Book-62-4"
      x="222.39995"
      id="use50-8"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,32.846664,317.53949)" />
+     transform="matrix(0.152,0,0,-0.152,32.846664,311.48772)" />
   <use
      xlink:href="#Avenir-Book-69-8"
      x="283.49994"
      id="use51-3"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,32.846664,317.53949)" />
+     transform="matrix(0.152,0,0,-0.152,32.846664,311.48772)" />
   <use
      xlink:href="#Avenir-Book-74-1"
      x="307.49994"
      id="use52-5"
      style="fill:#4a4a4a;stroke-linecap:butt;stroke-linejoin:round"
-     transform="matrix(0.152,0,0,-0.152,32.846664,317.53949)" />
+     transform="matrix(0.152,0,0,-0.152,32.846664,311.48772)" />
   <g
      id="text_14-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(29.092914,11.455151)">
+     transform="translate(29.092914,5.4033801)">
     <!-- $I_{\mathbf{x},h}$ -->
     <g
        style="fill:#262626;stroke-linecap:butt;stroke-linejoin:round"
@@ -5965,7 +5965,7 @@
   <g
      id="line2d_10-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="m 138.11482,298.19484 10.07656,13.60615 10.07655,16.36216 10.07656,15.5099 10.07655,11.49076 10.07656,8.06854 10.07655,9.70368 10.07656,-2.22165 10.07655,5.21611 10.07656,6.08231 10.07655,-0.20029 10.07656,4.31955 10.07655,1.22859 10.07656,0.61624 10.07655,3.72955 10.07656,-0.97763"
        clip-path="url(#p2d377ff00f)"
@@ -5975,7 +5975,7 @@
   <g
      id="line2d_11-4"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="m 138.11482,316.44049 10.07656,13.23776 10.07655,14.99162 10.07656,12.25782 10.07655,9.52672 10.07656,6.53975 10.07655,6.29518 10.07656,4.27667 10.07655,3.82997 10.07656,3.2153 10.07655,2.41691 10.07656,2.64008 10.07655,2.43093 10.07656,0.8259 10.07655,4.01898 10.07656,-0.67182"
        clip-path="url(#p2d377ff00f)"
@@ -5985,7 +5985,7 @@
   <g
      id="patch_9-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="M 88.235875,434.99109 V 290.36501"
        style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
@@ -5994,7 +5994,7 @@
   <g
      id="patch_10-8"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="M 298.83587,434.99109 V 290.36501"
        style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
@@ -6003,7 +6003,7 @@
   <g
      id="patch_11-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="M 88.235875,434.99109 H 298.83587"
        style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
@@ -6012,7 +6012,7 @@
   <g
      id="patch_12-3"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <path
        d="M 88.235875,290.36501 H 298.83587"
        style="fill:none;stroke:#878787;stroke-width:0.7;stroke-linecap:square;stroke-linejoin:miter"
@@ -6021,7 +6021,7 @@
   <g
      id="text_17-54"
      style="fill:#878787;fill-opacity:1;stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <!-- $\Delta h = 0.15$ -->
     <g
        transform="matrix(0.16,0,0,-0.16,158.97587,284.36501)"
@@ -6086,7 +6086,7 @@
   <g
      id="PathCollection_1-9"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <defs
        id="defs82-8">
       <path
@@ -6223,7 +6223,7 @@
   <g
      id="PathCollection_2-0"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(0.592914,11.455151)">
+     transform="translate(0.592914,5.4033801)">
     <defs
        id="defs102">
       <path
@@ -6360,7 +6360,7 @@
   <g
      id="text_26-1-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="rotate(-90,125.51943,435.57495)">
+     transform="rotate(-90,122.49354,432.54906)">
     <!-- $f(x) = x$ -->
     <g
        transform="matrix(0.16,0,0,-0.16,392.6228,326.18377)"
@@ -6401,27 +6401,27 @@
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="101.5469"
-     y="440.3121"
+     y="434.26035"
      id="text1-2-4-1-0-6-48-08"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8-9"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="101.56561"
-       y="440.3121">(c)</tspan></text>
+       y="434.26035">(c)</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="365.28232"
-     y="440.45914"
+     y="434.40738"
      id="text1-2-4-1-0-6-48-08-9"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8-9-0"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="365.30103"
-       y="440.45914">(d)</tspan></text>
+       y="434.40738">(d)</tspan></text>
   <g
      id="g131"
-     transform="translate(71.195542,-271.97002)">
+     transform="translate(71.195542,-278.02179)">
     <g
        id="line2d_21-2-8"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -6497,7 +6497,7 @@
   </g>
   <g
      id="g132"
-     transform="translate(71.195542,-271.97002)">
+     transform="translate(71.195542,-278.02179)">
     <g
        id="line2d_22-0-1"
        style="stroke-linecap:butt;stroke-linejoin:round"
@@ -6551,7 +6551,7 @@
   <g
      id="PathCollection_3-0-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-356.30418,-23.59328)">
+     transform="translate(-356.30418,-29.645051)">
     <g
        id="g183-6"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -6566,7 +6566,7 @@
   <g
      id="PathCollection_4-0-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-356.30418,-23.59328)">
+     transform="translate(-356.30418,-29.645051)">
     <g
        id="g191-9"
        style="stroke-linecap:butt;stroke-linejoin:round">
@@ -6581,7 +6581,7 @@
   <g
      id="text_30-7"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-348.796,-23.48368)">
+     transform="translate(-348.796,-29.535451)">
     <!-- $\tau_\mathrm{input}$=1000 -->
     <g
        transform="matrix(0.12,0,0,-0.12,524.67588,336.97001)"
@@ -6669,7 +6669,7 @@
   <g
      id="text_31-1"
      style="stroke-linecap:butt;stroke-linejoin:round"
-     transform="translate(-348.7811,-23.85766)">
+     transform="translate(-348.7811,-29.909431)">
     <!-- $\tau_\mathrm{input}$=250 -->
     <g
        transform="matrix(0.12,0,0,-0.12,524.67588,350.60126)"
@@ -6727,12 +6727,12 @@
   </g>
   <path
      fill-rule="nonzero"
-     d="m 605.07991,58.488763 -1.34944,-0.478361 c -0.13328,-0.01756 -0.27289,0.02137 -0.38031,0.11846 -0.19452,0.17525 -0.20976,0.47615 -0.0341,0.670339 l 4.23731,4.926795 0.0567,0.05255 c 0.20443,0.163266 0.50339,0.129495 0.66626,-0.07499 l 4.02724,-5.148365 c 0.0825,-0.106044 0.12119,-0.24574 0.0934,-0.387637 -0.0508,-0.25592 -0.30013,-0.422518 -0.55568,-0.371736 l -2.48878,1.22089 c -0.0844,-0.627596 -0.45447,-2.297354 -0.70468,-2.99895 -0.65197,-1.830845 -1.22862,-2.933838 -2.96711,-4.419706 -2.05424,-1.755917 -6.17924,-2.836564 -8.04043,-2.178135 -0.18385,0.0502 -0.32688,0.209535 -0.34707,0.410381 -0.0262,0.260781 0.16424,0.493547 0.42459,0.519385 3.50821,0.354246 5.71451,1.432843 6.92303,3.08081 1.08041,1.472868 1.89679,4.134565 2.08427,5.724296 z"
+     d="m 605.07991,52.436992 -1.34944,-0.478361 c -0.13328,-0.01756 -0.27289,0.02137 -0.38031,0.11846 -0.19452,0.17525 -0.20976,0.47615 -0.0341,0.670339 l 4.23731,4.926795 0.0567,0.05255 c 0.20443,0.163266 0.50339,0.129495 0.66626,-0.07499 l 4.02724,-5.148365 c 0.0825,-0.106044 0.12119,-0.24574 0.0934,-0.387637 -0.0508,-0.25592 -0.30013,-0.422518 -0.55568,-0.371736 l -2.48878,1.22089 c -0.0844,-0.627596 -0.45447,-2.297354 -0.70468,-2.99895 -0.65197,-1.830845 -1.22862,-2.933838 -2.96711,-4.419706 -2.05424,-1.755917 -6.17924,-2.836564 -8.04043,-2.178135 -0.18385,0.0502 -0.32688,0.209535 -0.34707,0.410381 -0.0262,0.260781 0.16424,0.493547 0.42459,0.519385 3.50821,0.354246 5.71451,1.432843 6.92303,3.08081 1.08041,1.472868 1.89679,4.134565 2.08427,5.724296 z"
      id="path1-5-6-7-7"
      style="fill:#184e77;fill-opacity:0.227147;stroke:#184e77;stroke-width:0.255505;stroke-linecap:butt;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="ccccccccccccccccccc" />
   <path
-     d="M 61.014515,240.39298 H 257.08017 V 71.001056 H 61.014515 Z"
+     d="M 61.014515,234.34121 H 257.08017 V 64.949285 H 61.014515 Z"
      style="fill:none;stroke-width:1.17124"
      id="path2" />
   <image
@@ -6740,12 +6740,12 @@
      id="image8ec00aaedc"
      transform="scale(1,-1)"
      x="61.113049"
-     y="-240.37285"
+     y="-234.32108"
      width="195.92511"
      height="169.50192" />
   <g
      id="xtick_1"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)">
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)">
     <g
        id="line2d_1">
       <defs
@@ -6787,7 +6787,7 @@
   </g>
   <g
      id="xtick_2"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)">
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)">
     <g
        id="line2d_2">
       <g
@@ -6822,7 +6822,7 @@
   </g>
   <g
      id="text_3"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)">
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)">
     <!-- $k$ -->
     <g
        style="fill:#262626"
@@ -6843,7 +6843,7 @@
   </g>
   <g
      id="ytick_1"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)">
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)">
     <g
        id="line2d_3">
       <defs
@@ -6878,7 +6878,7 @@
   </g>
   <g
      id="ytick_2"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)">
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)">
     <g
        id="line2d_4">
       <g
@@ -6917,7 +6917,7 @@
   </g>
   <g
      id="text_6"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)">
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)">
     <!-- $w$ -->
     <g
        style="fill:#262626"
@@ -6941,32 +6941,32 @@
      clip-path="url(#p82fd07b0c1)"
      style="fill:none;stroke:#d3d3d3;stroke-width:4.50036;stroke-linecap:round;stroke-dasharray:5.75046, 5.0004;stroke-dashoffset:0"
      id="path12"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)" />
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)" />
   <path
      d="m -1,199.61358 15.32013,-0.53675 14.906079,-0.72313 11.270096,-0.72313 8.819861,-0.72313 7.090341,-0.72313 5.824118,-0.72313 9.000749,-1.44626 6.632006,-1.44626 5.089607,-1.44626 4.029229,-1.44626 3.268967,-1.44626 2.705334,-1.44627 2.275901,-1.44626 1.941201,-1.44626 2.429701,-2.16939 1.99059,-2.16939 1.66065,-2.16939 1.40646,-2.16939 1.57141,-2.89252 1.30507,-2.89253 1.35007,-3.61565 1.11403,-3.61565 1.10417,-4.33878 1.04963,-5.06192 0.96948,-5.78504 0.96453,-7.2313 0.90331,-8.67757 0.81392,-10.12382 0.75481,-12.29322 0.69962,-15.185741 0.63773,-18.801391 0.39356,-15.185739 v 0"
      clip-path="url(#p82fd07b0c1)"
      style="fill:none;stroke:#2b2d42;stroke-width:2.5;stroke-linecap:round;stroke-dasharray:5.75, 5;stroke-dashoffset:0"
      id="path13"
-     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,1.7208985)" />
+     transform="matrix(1.1712405,0,0,1.1712405,-42.330915,-4.3308724)" />
   <path
-     d="M 61.014515,240.39298 V 71.001056"
+     d="M 61.014515,234.34121 V 64.949285"
      style="fill:none;stroke:#878787;stroke-width:0.819868;stroke-linecap:square;stroke-linejoin:miter"
      id="path14" />
   <path
-     d="M 257.08017,240.39298 V 71.001056"
+     d="M 257.08017,234.34121 V 64.949285"
      style="fill:none;stroke:#878787;stroke-width:0.819868;stroke-linecap:square;stroke-linejoin:miter"
      id="path15" />
   <path
-     d="M 61.014515,240.39298 H 257.08017"
+     d="M 61.014515,234.34121 H 257.08017"
      style="fill:none;stroke:#878787;stroke-width:0.819868;stroke-linecap:square;stroke-linejoin:miter"
      id="path16" />
   <path
-     d="M 61.014515,71.001056 H 257.08017"
+     d="M 61.014515,64.949285 H 257.08017"
      style="fill:none;stroke:#878787;stroke-width:0.819868;stroke-linecap:square;stroke-linejoin:miter"
      id="path17" />
   <g
      id="g1"
-     transform="translate(33.996984,8.7858725)">
+     transform="translate(33.996984,2.7341016)">
     <path
        d="M 48.519314,52.095665 H 200.31208 V 41.976147 H 48.519314 Z"
        style="fill:none;stroke-width:1.17124"
@@ -7132,45 +7132,45 @@
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:12px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0375px;word-spacing:0px;text-anchor:middle;fill:#2b2d42;fill-opacity:1;stroke-width:2.5;stroke-linecap:square;stroke-opacity:0.341176"
-     x="-131.66795"
+     x="-125.61618"
      y="79.132233"
      id="text393"
      transform="rotate(-90)"><tspan
        sodipodi:role="line"
        id="tspan393"
        style="fill:#2b2d42;fill-opacity:1;stroke-width:2.5"
-       x="-131.6492"
+       x="-125.59743"
        y="79.132233">UNSTABLE</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:20px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.0374101px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259;stroke-linecap:square;stroke-linejoin:round"
      x="74.393112"
-     y="88.817101"
+     y="82.765327"
      id="text1-2-4-1-0-6-48"><tspan
        sodipodi:role="line"
        id="tspan1-7-9-7-5-6-8"
        style="font-size:20px;fill:#4a4a4a;fill-opacity:1;stroke-width:1.00259"
        x="74.411819"
-       y="88.817101">(a)</tspan></text>
+       y="82.765327">(a)</tspan></text>
   <text
      xml:space="preserve"
      style="font-weight:500;font-size:14px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:'Avenir Medium';text-align:center;letter-spacing:0.040008px;word-spacing:0px;text-anchor:middle;fill:#4a4a4a;fill-opacity:1;stroke-width:5.62352;stroke-linecap:square;stroke-dasharray:7.1856, 6.24836;stroke-dashoffset:0;stroke-opacity:0.341176"
      x="423.68002"
-     y="27.989988"
+     y="21.938217"
      id="text396"><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#4a4a4a;fill-opacity:1;stroke-width:5.62352"
        x="423.68002"
-       y="27.989988"
+       y="21.938217"
        id="tspan99">INFORMATION AT THE EDGE OF</tspan><tspan
        sodipodi:role="line"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;font-family:Avenir;-inkscape-font-specification:Avenir;fill:#4a4a4a;fill-opacity:1;stroke-width:5.62352"
        x="423.70001"
-       y="44.789989"
+       y="38.73822"
        id="tspan100">STABILITY</tspan></text>
   <g
      id="g97"
-     transform="translate(-1.4999987,14.195087)">
+     transform="translate(-1.4999987,8.1433161)">
     <path
        d="M 92.95406,254.04328 H 419.81769"
        clip-path="url(#pf1a9852395-9-0)"
@@ -9522,7 +9522,7 @@
   </g>
   <g
      id="g14"
-     transform="matrix(1.060467,0,0,1.060467,-29.574061,-4.3287578)">
+     transform="matrix(1.060467,0,0,1.060467,-29.574061,-10.380529)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5274px;line-height:1.2;font-family:Avenir;-inkscape-font-specification:Avenir;text-align:center;letter-spacing:0.0384256px;word-spacing:0px;text-anchor:middle;fill:#184e77;fill-opacity:1;stroke-width:2.56169;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:0.341176"
@@ -9645,7 +9645,7 @@
   </g>
   <path
      style="fill:none;fill-opacity:0.227147;stroke:#184e77;stroke-width:0.648;stroke-linecap:square;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#RoundedArrow)"
-     d="m 533.36271,70.510472 c 22.17208,-0.171155 23.50106,3.032353 23.62922,20.768181"
+     d="m 533.36271,64.458701 c 22.17208,-0.171155 23.50106,3.032353 23.62922,20.768181"
      id="path97"
      sodipodi:nodetypes="cc" />
 </svg>
